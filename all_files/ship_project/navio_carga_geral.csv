@@ -1,447 +1,447 @@
 Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Tipo de Carga,Volume
-Carga Geral A,2023-01-01,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-01,Los Angeles,Taxas Portuárias,6372.64,Taxas portuárias em Los Angeles,,
-Carga Geral B,2023-01-01,Los Angeles,Combustível,11219.43,Combustível em Los Angeles,,
-Carga Geral B,2023-01-01,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-01,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-01,Roterdã,Taxas Portuárias,4688.73,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-01,Roterdã,Taxas Portuárias,2647.09,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-01,Roterdã,Combustível,23183.31,Combustível em Roterdã,,
-Carga Geral C,2023-01-01,Roterdã,Combustível,15515.36,Combustível em Roterdã,,
-Carga Geral C,2023-01-01,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-01,Hamburgo,Manutenção,3918.61,Manutenção e reparos,,
-Carga Geral D,2023-01-01,Los Angeles,Taxas Portuárias,2925.61,Taxas portuárias em Los Angeles,,
-Carga Geral E,2023-01-01,Xangai,Combustível,22900.98,Combustível em Xangai,,
-Carga Geral A,2023-01-02,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-02,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-02,Xangai,Manutenção,4435.71,Manutenção e reparos,,
-Carga Geral B,2023-01-02,Roterdã,Combustível,15782.46,Combustível em Roterdã,,
-Carga Geral C,2023-01-02,Los Angeles,Combustível,16297.29,Combustível em Los Angeles,,
-Carga Geral D,2023-01-02,Hamburgo,Combustível,8657.12,Combustível em Hamburgo,,
-Carga Geral D,2023-01-02,Xangai,Manutenção,1303.41,Manutenção e reparos,,
-Carga Geral D,2023-01-02,Los Angeles,Manutenção,1195.23,Manutenção e reparos,,
-Carga Geral D,2023-01-02,Roterdã,Combustível,7282.16,Combustível em Roterdã,,
-Carga Geral E,2023-01-02,Xangai,Carregamento/Descarga,15815.5,Carregamento/descarga de 31631 m³ de Granéis Sólidos,Granéis Sólidos,31631.0
-Carga Geral E,2023-01-02,Xangai,Taxas Portuárias,2390.47,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-03,Xangai,Manutenção,3978.51,Manutenção e reparos,,
-Carga Geral B,2023-01-03,Singapura,Manutenção,3198.57,Manutenção e reparos,,
-Carga Geral C,2023-01-03,Roterdã,Taxas Portuárias,6875.25,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-03,Hamburgo,Taxas Portuárias,6971.67,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-03,Xangai,Taxas Portuárias,3383.01,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-03,Hamburgo,Manutenção,4383.43,Manutenção e reparos,,
-Carga Geral C,2023-01-03,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-03,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-03,Hamburgo,Carregamento/Descarga,7356.5,Carregamento/descarga de 14713 m³ de Granéis Sólidos,Granéis Sólidos,14713.0
-Carga Geral D,2023-01-03,Hamburgo,Taxas Portuárias,2929.83,Taxas portuárias em Hamburgo,,
-Carga Geral D,2023-01-03,Los Angeles,Combustível,23016.51,Combustível em Los Angeles,,
-Carga Geral E,2023-01-03,Los Angeles,Manutenção,2098.37,Manutenção e reparos,,
-Carga Geral E,2023-01-03,Xangai,Taxas Portuárias,2990.52,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-04,Xangai,Manutenção,2887.06,Manutenção e reparos,,
-Carga Geral A,2023-01-04,Singapura,Carregamento/Descarga,10321.0,Carregamento/descarga de 20642 m³ de Granéis Sólidos,Granéis Sólidos,20642.0
-Carga Geral B,2023-01-04,Hamburgo,Manutenção,4401.3,Manutenção e reparos,,
-Carga Geral B,2023-01-04,Xangai,Taxas Portuárias,2821.84,Taxas portuárias em Xangai,,
-Carga Geral B,2023-01-04,Los Angeles,Manutenção,3056.41,Manutenção e reparos,,
-Carga Geral B,2023-01-04,Singapura,Taxas Portuárias,3324.21,Taxas portuárias em Singapura,,
-Carga Geral B,2023-01-04,Hamburgo,Taxas Portuárias,5580.26,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-04,Xangai,Taxas Portuárias,6885.48,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-04,Roterdã,Taxas Portuárias,6443.16,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-04,Hamburgo,Carregamento/Descarga,10838.0,Carregamento/descarga de 10838 m³ de Outros,Outros,10838.0
+Carga Geral A,2023-01-01,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-01,Los Angeles,Taxas Portuárias,"6,372.64",Taxas portuárias em Los Angeles,,
+Carga Geral B,2023-01-01,Los Angeles,Combustível,"11,219.43",Combustível em Los Angeles,,
+Carga Geral B,2023-01-01,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-01,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-01,Roterdã,Taxas Portuárias,"4,688.73",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-01,Roterdã,Taxas Portuárias,"2,647.09",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-01,Roterdã,Combustível,"23,183.31",Combustível em Roterdã,,
+Carga Geral C,2023-01-01,Roterdã,Combustível,"15,515.36",Combustível em Roterdã,,
+Carga Geral C,2023-01-01,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-01,Hamburgo,Manutenção,"3,918.61",Manutenção e reparos,,
+Carga Geral D,2023-01-01,Los Angeles,Taxas Portuárias,"2,925.61",Taxas portuárias em Los Angeles,,
+Carga Geral E,2023-01-01,Xangai,Combustível,"22,900.98",Combustível em Xangai,,
+Carga Geral A,2023-01-02,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-02,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-02,Xangai,Manutenção,"4,435.71",Manutenção e reparos,,
+Carga Geral B,2023-01-02,Roterdã,Combustível,"15,782.46",Combustível em Roterdã,,
+Carga Geral C,2023-01-02,Los Angeles,Combustível,"16,297.29",Combustível em Los Angeles,,
+Carga Geral D,2023-01-02,Hamburgo,Combustível,"8,657.12",Combustível em Hamburgo,,
+Carga Geral D,2023-01-02,Xangai,Manutenção,"1,303.41",Manutenção e reparos,,
+Carga Geral D,2023-01-02,Los Angeles,Manutenção,"1,195.23",Manutenção e reparos,,
+Carga Geral D,2023-01-02,Roterdã,Combustível,"7,282.16",Combustível em Roterdã,,
+Carga Geral E,2023-01-02,Xangai,Carregamento/Descarga,"15,815.50",Carregamento/descarga de 31631 m³ de Granéis Sólidos,Granéis Sólidos,31631.0
+Carga Geral E,2023-01-02,Xangai,Taxas Portuárias,"2,390.47",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-03,Xangai,Manutenção,"3,978.51",Manutenção e reparos,,
+Carga Geral B,2023-01-03,Singapura,Manutenção,"3,198.57",Manutenção e reparos,,
+Carga Geral C,2023-01-03,Roterdã,Taxas Portuárias,"6,875.25",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-03,Hamburgo,Taxas Portuárias,"6,971.67",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-03,Xangai,Taxas Portuárias,"3,383.01",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-03,Hamburgo,Manutenção,"4,383.43",Manutenção e reparos,,
+Carga Geral C,2023-01-03,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-03,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-03,Hamburgo,Carregamento/Descarga,"7,356.50",Carregamento/descarga de 14713 m³ de Granéis Sólidos,Granéis Sólidos,14713.0
+Carga Geral D,2023-01-03,Hamburgo,Taxas Portuárias,"2,929.83",Taxas portuárias em Hamburgo,,
+Carga Geral D,2023-01-03,Los Angeles,Combustível,"23,016.51",Combustível em Los Angeles,,
+Carga Geral E,2023-01-03,Los Angeles,Manutenção,"2,098.37",Manutenção e reparos,,
+Carga Geral E,2023-01-03,Xangai,Taxas Portuárias,"2,990.52",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-04,Xangai,Manutenção,"2,887.06",Manutenção e reparos,,
+Carga Geral A,2023-01-04,Singapura,Carregamento/Descarga,"10,321.00",Carregamento/descarga de 20642 m³ de Granéis Sólidos,Granéis Sólidos,20642.0
+Carga Geral B,2023-01-04,Hamburgo,Manutenção,"4,401.30",Manutenção e reparos,,
+Carga Geral B,2023-01-04,Xangai,Taxas Portuárias,"2,821.84",Taxas portuárias em Xangai,,
+Carga Geral B,2023-01-04,Los Angeles,Manutenção,"3,056.41",Manutenção e reparos,,
+Carga Geral B,2023-01-04,Singapura,Taxas Portuárias,"3,324.21",Taxas portuárias em Singapura,,
+Carga Geral B,2023-01-04,Hamburgo,Taxas Portuárias,"5,580.26",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-04,Xangai,Taxas Portuárias,"6,885.48",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-04,Roterdã,Taxas Portuárias,"6,443.16",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-04,Hamburgo,Carregamento/Descarga,"10,838.00",Carregamento/descarga de 10838 m³ de Outros,Outros,10838.0
 Carga Geral D,2023-01-04,Roterdã,Manutenção,989.76,Manutenção e reparos,,
-Carga Geral D,2023-01-04,Xangai,Carregamento/Descarga,11890.5,Carregamento/descarga de 23781 m³ de Granéis Sólidos,Granéis Sólidos,23781.0
-Carga Geral D,2023-01-04,Xangai,Manutenção,2079.87,Manutenção e reparos,,
-Carga Geral D,2023-01-04,Hamburgo,Combustível,14997.34,Combustível em Hamburgo,,
-Carga Geral D,2023-01-04,Los Angeles,Taxas Portuárias,2361.31,Taxas portuárias em Los Angeles,,
-Carga Geral E,2023-01-04,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-04,Singapura,Combustível,25383.31,Combustível em Singapura,,
-Carga Geral E,2023-01-04,Los Angeles,Carregamento/Descarga,11613.0,Carregamento/descarga de 23226 m³ de Granéis Sólidos,Granéis Sólidos,23226.0
-Carga Geral A,2023-01-05,Xangai,Manutenção,2024.71,Manutenção e reparos,,
-Carga Geral A,2023-01-05,Los Angeles,Taxas Portuárias,2748.56,Taxas portuárias em Los Angeles,,
-Carga Geral A,2023-01-05,Roterdã,Taxas Portuárias,3286.07,Taxas portuárias em Roterdã,,
-Carga Geral A,2023-01-05,Singapura,Combustível,8127.65,Combustível em Singapura,,
-Carga Geral B,2023-01-05,Hamburgo,Manutenção,1357.08,Manutenção e reparos,,
-Carga Geral B,2023-01-05,Singapura,Taxas Portuárias,6859.25,Taxas portuárias em Singapura,,
-Carga Geral B,2023-01-05,Singapura,Manutenção,2207.91,Manutenção e reparos,,
-Carga Geral B,2023-01-05,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-05,Xangai,Taxas Portuárias,6668.2,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-05,Xangai,Combustível,15513.97,Combustível em Xangai,,
-Carga Geral C,2023-01-05,Xangai,Carregamento/Descarga,17284.0,Carregamento/descarga de 34568 m³ de Granéis Sólidos,Granéis Sólidos,34568.0
-Carga Geral C,2023-01-05,Singapura,Taxas Portuárias,3910.41,Taxas portuárias em Singapura,,
-Carga Geral D,2023-01-05,Xangai,Manutenção,3978.93,Manutenção e reparos,,
-Carga Geral E,2023-01-05,Roterdã,Taxas Portuárias,3548.92,Taxas portuárias em Roterdã,,
-Carga Geral E,2023-01-05,Los Angeles,Carregamento/Descarga,21119.0,Carregamento/descarga de 21119 m³ de Outros,Outros,21119.0
-Carga Geral E,2023-01-05,Los Angeles,Manutenção,4152.93,Manutenção e reparos,,
-Carga Geral E,2023-01-05,Los Angeles,Carregamento/Descarga,66957.0,Carregamento/descarga de 44638 m³ de Veículos,Veículos,44638.0
-Carga Geral A,2023-01-06,Hamburgo,Manutenção,3677.15,Manutenção e reparos,,
-Carga Geral B,2023-01-06,Hamburgo,Combustível,11577.22,Combustível em Hamburgo,,
-Carga Geral B,2023-01-06,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-06,Los Angeles,Carregamento/Descarga,15862.8,Carregamento/descarga de 13219 m³ de Contêineres,Contêineres,13219.0
-Carga Geral C,2023-01-06,Singapura,Taxas Portuárias,3205.36,Taxas portuárias em Singapura,,
-Carga Geral C,2023-01-06,Roterdã,Combustível,17770.73,Combustível em Roterdã,,
-Carga Geral C,2023-01-06,Singapura,Manutenção,1769.63,Manutenção e reparos,,
-Carga Geral C,2023-01-06,Singapura,Carregamento/Descarga,20656.5,Carregamento/descarga de 13771 m³ de Veículos,Veículos,13771.0
-Carga Geral C,2023-01-06,Xangai,Carregamento/Descarga,7285.5,Carregamento/descarga de 14571 m³ de Granéis Sólidos,Granéis Sólidos,14571.0
-Carga Geral D,2023-01-06,Singapura,Carregamento/Descarga,7155.2,Carregamento/descarga de 8944 m³ de Carga Solta,Carga Solta,8944.0
-Carga Geral D,2023-01-06,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-06,Singapura,Carregamento/Descarga,18217.0,Carregamento/descarga de 18217 m³ de Outros,Outros,18217.0
-Carga Geral D,2023-01-06,Los Angeles,Manutenção,3824.7,Manutenção e reparos,,
-Carga Geral E,2023-01-06,Singapura,Taxas Portuárias,6474.37,Taxas portuárias em Singapura,,
-Carga Geral E,2023-01-06,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-07,Roterdã,Carregamento/Descarga,4791.0,Carregamento/descarga de 9582 m³ de Granéis Sólidos,Granéis Sólidos,9582.0
-Carga Geral A,2023-01-07,Roterdã,Carregamento/Descarga,24979.5,Carregamento/descarga de 49959 m³ de Granéis Sólidos,Granéis Sólidos,49959.0
-Carga Geral A,2023-01-07,Singapura,Taxas Portuárias,5199.73,Taxas portuárias em Singapura,,
-Carga Geral B,2023-01-07,Los Angeles,Carregamento/Descarga,58476.0,Carregamento/descarga de 38984 m³ de Veículos,Veículos,38984.0
-Carga Geral B,2023-01-07,Hamburgo,Carregamento/Descarga,39970.0,Carregamento/descarga de 39970 m³ de Outros,Outros,39970.0
-Carga Geral B,2023-01-07,Hamburgo,Combustível,7219.58,Combustível em Hamburgo,,
-Carga Geral C,2023-01-07,Roterdã,Manutenção,4311.6,Manutenção e reparos,,
-Carga Geral C,2023-01-07,Los Angeles,Taxas Portuárias,6821.48,Taxas portuárias em Los Angeles,,
-Carga Geral C,2023-01-07,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-07,Roterdã,Carregamento/Descarga,27732.0,Carregamento/descarga de 27732 m³ de Outros,Outros,27732.0
-Carga Geral D,2023-01-07,Xangai,Carregamento/Descarga,9498.0,Carregamento/descarga de 9498 m³ de Outros,Outros,9498.0
-Carga Geral D,2023-01-07,Los Angeles,Carregamento/Descarga,18880.0,Carregamento/descarga de 18880 m³ de Outros,Outros,18880.0
-Carga Geral E,2023-01-07,Roterdã,Combustível,20772.66,Combustível em Roterdã,,
-Carga Geral E,2023-01-07,Los Angeles,Combustível,7574.53,Combustível em Los Angeles,,
-Carga Geral E,2023-01-07,Los Angeles,Carregamento/Descarga,11147.2,Carregamento/descarga de 13934 m³ de Carga Solta,Carga Solta,13934.0
-Carga Geral E,2023-01-07,Xangai,Taxas Portuárias,5948.27,Taxas portuárias em Xangai,,
-Carga Geral E,2023-01-07,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-08,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-08,Hamburgo,Carregamento/Descarga,16498.4,Carregamento/descarga de 20623 m³ de Carga Solta,Carga Solta,20623.0
-Carga Geral A,2023-01-08,Los Angeles,Carregamento/Descarga,28508.4,Carregamento/descarga de 23757 m³ de Contêineres,Contêineres,23757.0
-Carga Geral B,2023-01-08,Hamburgo,Taxas Portuárias,4571.89,Taxas portuárias em Hamburgo,,
-Carga Geral B,2023-01-08,Xangai,Combustível,23847.82,Combustível em Xangai,,
-Carga Geral B,2023-01-08,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-08,Hamburgo,Carregamento/Descarga,11644.0,Carregamento/descarga de 14555 m³ de Carga Solta,Carga Solta,14555.0
-Carga Geral C,2023-01-08,Singapura,Combustível,27413.93,Combustível em Singapura,,
-Carga Geral C,2023-01-08,Singapura,Carregamento/Descarga,42781.5,Carregamento/descarga de 28521 m³ de Veículos,Veículos,28521.0
-Carga Geral D,2023-01-08,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-08,Singapura,Manutenção,2028.65,Manutenção e reparos,,
-Carga Geral E,2023-01-08,Los Angeles,Carregamento/Descarga,23737.0,Carregamento/descarga de 47474 m³ de Granéis Sólidos,Granéis Sólidos,47474.0
-Carga Geral E,2023-01-08,Singapura,Taxas Portuárias,2852.85,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-09,Roterdã,Taxas Portuárias,5382.33,Taxas portuárias em Roterdã,,
-Carga Geral A,2023-01-09,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-09,Singapura,Manutenção,3123.46,Manutenção e reparos,,
-Carga Geral A,2023-01-09,Singapura,Taxas Portuárias,5620.34,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-09,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-09,Los Angeles,Taxas Portuárias,4379.17,Taxas portuárias em Los Angeles,,
-Carga Geral B,2023-01-09,Xangai,Carregamento/Descarga,35596.8,Carregamento/descarga de 44496 m³ de Carga Solta,Carga Solta,44496.0
-Carga Geral C,2023-01-09,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-09,Xangai,Carregamento/Descarga,14798.0,Carregamento/descarga de 14798 m³ de Outros,Outros,14798.0
-Carga Geral D,2023-01-09,Hamburgo,Carregamento/Descarga,17117.5,Carregamento/descarga de 34235 m³ de Granéis Sólidos,Granéis Sólidos,34235.0
-Carga Geral D,2023-01-09,Roterdã,Manutenção,1463.23,Manutenção e reparos,,
-Carga Geral D,2023-01-09,Roterdã,Carregamento/Descarga,6503.2,Carregamento/descarga de 8129 m³ de Carga Solta,Carga Solta,8129.0
-Carga Geral E,2023-01-09,Roterdã,Manutenção,2037.78,Manutenção e reparos,,
-Carga Geral E,2023-01-09,Hamburgo,Taxas Portuárias,6775.09,Taxas portuárias em Hamburgo,,
-Carga Geral A,2023-01-10,Xangai,Carregamento/Descarga,5938.4,Carregamento/descarga de 7423 m³ de Carga Solta,Carga Solta,7423.0
-Carga Geral A,2023-01-10,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-10,Los Angeles,Combustível,22763.92,Combustível em Los Angeles,,
-Carga Geral B,2023-01-10,Los Angeles,Manutenção,2499.14,Manutenção e reparos,,
-Carga Geral C,2023-01-10,Hamburgo,Carregamento/Descarga,21851.2,Carregamento/descarga de 27314 m³ de Carga Solta,Carga Solta,27314.0
-Carga Geral C,2023-01-10,Singapura,Carregamento/Descarga,9199.0,Carregamento/descarga de 18398 m³ de Granéis Sólidos,Granéis Sólidos,18398.0
-Carga Geral C,2023-01-10,Xangai,Combustível,19891.61,Combustível em Xangai,,
-Carga Geral C,2023-01-10,Roterdã,Taxas Portuárias,6834.13,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-10,Singapura,Manutenção,1761.76,Manutenção e reparos,,
-Carga Geral D,2023-01-10,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-10,Hamburgo,Carregamento/Descarga,32284.0,Carregamento/descarga de 32284 m³ de Outros,Outros,32284.0
-Carga Geral E,2023-01-10,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-10,Roterdã,Manutenção,4297.12,Manutenção e reparos,,
-Carga Geral E,2023-01-10,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-11,Los Angeles,Combustível,19891.28,Combustível em Los Angeles,,
-Carga Geral A,2023-01-11,Hamburgo,Carregamento/Descarga,13798.5,Carregamento/descarga de 9199 m³ de Veículos,Veículos,9199.0
-Carga Geral A,2023-01-11,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-11,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-11,Singapura,Carregamento/Descarga,56928.0,Carregamento/descarga de 47440 m³ de Contêineres,Contêineres,47440.0
-Carga Geral B,2023-01-11,Roterdã,Taxas Portuárias,4823.1,Taxas portuárias em Roterdã,,
+Carga Geral D,2023-01-04,Xangai,Carregamento/Descarga,"11,890.50",Carregamento/descarga de 23781 m³ de Granéis Sólidos,Granéis Sólidos,23781.0
+Carga Geral D,2023-01-04,Xangai,Manutenção,"2,079.87",Manutenção e reparos,,
+Carga Geral D,2023-01-04,Hamburgo,Combustível,"14,997.34",Combustível em Hamburgo,,
+Carga Geral D,2023-01-04,Los Angeles,Taxas Portuárias,"2,361.31",Taxas portuárias em Los Angeles,,
+Carga Geral E,2023-01-04,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-04,Singapura,Combustível,"25,383.31",Combustível em Singapura,,
+Carga Geral E,2023-01-04,Los Angeles,Carregamento/Descarga,"11,613.00",Carregamento/descarga de 23226 m³ de Granéis Sólidos,Granéis Sólidos,23226.0
+Carga Geral A,2023-01-05,Xangai,Manutenção,"2,024.71",Manutenção e reparos,,
+Carga Geral A,2023-01-05,Los Angeles,Taxas Portuárias,"2,748.56",Taxas portuárias em Los Angeles,,
+Carga Geral A,2023-01-05,Roterdã,Taxas Portuárias,"3,286.07",Taxas portuárias em Roterdã,,
+Carga Geral A,2023-01-05,Singapura,Combustível,"8,127.65",Combustível em Singapura,,
+Carga Geral B,2023-01-05,Hamburgo,Manutenção,"1,357.08",Manutenção e reparos,,
+Carga Geral B,2023-01-05,Singapura,Taxas Portuárias,"6,859.25",Taxas portuárias em Singapura,,
+Carga Geral B,2023-01-05,Singapura,Manutenção,"2,207.91",Manutenção e reparos,,
+Carga Geral B,2023-01-05,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-05,Xangai,Taxas Portuárias,"6,668.20",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-05,Xangai,Combustível,"15,513.97",Combustível em Xangai,,
+Carga Geral C,2023-01-05,Xangai,Carregamento/Descarga,"17,284.00",Carregamento/descarga de 34568 m³ de Granéis Sólidos,Granéis Sólidos,34568.0
+Carga Geral C,2023-01-05,Singapura,Taxas Portuárias,"3,910.41",Taxas portuárias em Singapura,,
+Carga Geral D,2023-01-05,Xangai,Manutenção,"3,978.93",Manutenção e reparos,,
+Carga Geral E,2023-01-05,Roterdã,Taxas Portuárias,"3,548.92",Taxas portuárias em Roterdã,,
+Carga Geral E,2023-01-05,Los Angeles,Carregamento/Descarga,"21,119.00",Carregamento/descarga de 21119 m³ de Outros,Outros,21119.0
+Carga Geral E,2023-01-05,Los Angeles,Manutenção,"4,152.93",Manutenção e reparos,,
+Carga Geral E,2023-01-05,Los Angeles,Carregamento/Descarga,"66,957.00",Carregamento/descarga de 44638 m³ de Veículos,Veículos,44638.0
+Carga Geral A,2023-01-06,Hamburgo,Manutenção,"3,677.15",Manutenção e reparos,,
+Carga Geral B,2023-01-06,Hamburgo,Combustível,"11,577.22",Combustível em Hamburgo,,
+Carga Geral B,2023-01-06,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-06,Los Angeles,Carregamento/Descarga,"15,862.80",Carregamento/descarga de 13219 m³ de Contêineres,Contêineres,13219.0
+Carga Geral C,2023-01-06,Singapura,Taxas Portuárias,"3,205.36",Taxas portuárias em Singapura,,
+Carga Geral C,2023-01-06,Roterdã,Combustível,"17,770.73",Combustível em Roterdã,,
+Carga Geral C,2023-01-06,Singapura,Manutenção,"1,769.63",Manutenção e reparos,,
+Carga Geral C,2023-01-06,Singapura,Carregamento/Descarga,"20,656.50",Carregamento/descarga de 13771 m³ de Veículos,Veículos,13771.0
+Carga Geral C,2023-01-06,Xangai,Carregamento/Descarga,"7,285.50",Carregamento/descarga de 14571 m³ de Granéis Sólidos,Granéis Sólidos,14571.0
+Carga Geral D,2023-01-06,Singapura,Carregamento/Descarga,"7,155.20",Carregamento/descarga de 8944 m³ de Carga Solta,Carga Solta,8944.0
+Carga Geral D,2023-01-06,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-06,Singapura,Carregamento/Descarga,"18,217.00",Carregamento/descarga de 18217 m³ de Outros,Outros,18217.0
+Carga Geral D,2023-01-06,Los Angeles,Manutenção,"3,824.70",Manutenção e reparos,,
+Carga Geral E,2023-01-06,Singapura,Taxas Portuárias,"6,474.37",Taxas portuárias em Singapura,,
+Carga Geral E,2023-01-06,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-07,Roterdã,Carregamento/Descarga,"4,791.00",Carregamento/descarga de 9582 m³ de Granéis Sólidos,Granéis Sólidos,9582.0
+Carga Geral A,2023-01-07,Roterdã,Carregamento/Descarga,"24,979.50",Carregamento/descarga de 49959 m³ de Granéis Sólidos,Granéis Sólidos,49959.0
+Carga Geral A,2023-01-07,Singapura,Taxas Portuárias,"5,199.73",Taxas portuárias em Singapura,,
+Carga Geral B,2023-01-07,Los Angeles,Carregamento/Descarga,"58,476.00",Carregamento/descarga de 38984 m³ de Veículos,Veículos,38984.0
+Carga Geral B,2023-01-07,Hamburgo,Carregamento/Descarga,"39,970.00",Carregamento/descarga de 39970 m³ de Outros,Outros,39970.0
+Carga Geral B,2023-01-07,Hamburgo,Combustível,"7,219.58",Combustível em Hamburgo,,
+Carga Geral C,2023-01-07,Roterdã,Manutenção,"4,311.60",Manutenção e reparos,,
+Carga Geral C,2023-01-07,Los Angeles,Taxas Portuárias,"6,821.48",Taxas portuárias em Los Angeles,,
+Carga Geral C,2023-01-07,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-07,Roterdã,Carregamento/Descarga,"27,732.00",Carregamento/descarga de 27732 m³ de Outros,Outros,27732.0
+Carga Geral D,2023-01-07,Xangai,Carregamento/Descarga,"9,498.00",Carregamento/descarga de 9498 m³ de Outros,Outros,9498.0
+Carga Geral D,2023-01-07,Los Angeles,Carregamento/Descarga,"18,880.00",Carregamento/descarga de 18880 m³ de Outros,Outros,18880.0
+Carga Geral E,2023-01-07,Roterdã,Combustível,"20,772.66",Combustível em Roterdã,,
+Carga Geral E,2023-01-07,Los Angeles,Combustível,"7,574.53",Combustível em Los Angeles,,
+Carga Geral E,2023-01-07,Los Angeles,Carregamento/Descarga,"11,147.20",Carregamento/descarga de 13934 m³ de Carga Solta,Carga Solta,13934.0
+Carga Geral E,2023-01-07,Xangai,Taxas Portuárias,"5,948.27",Taxas portuárias em Xangai,,
+Carga Geral E,2023-01-07,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-08,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-08,Hamburgo,Carregamento/Descarga,"16,498.40",Carregamento/descarga de 20623 m³ de Carga Solta,Carga Solta,20623.0
+Carga Geral A,2023-01-08,Los Angeles,Carregamento/Descarga,"28,508.40",Carregamento/descarga de 23757 m³ de Contêineres,Contêineres,23757.0
+Carga Geral B,2023-01-08,Hamburgo,Taxas Portuárias,"4,571.89",Taxas portuárias em Hamburgo,,
+Carga Geral B,2023-01-08,Xangai,Combustível,"23,847.82",Combustível em Xangai,,
+Carga Geral B,2023-01-08,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-08,Hamburgo,Carregamento/Descarga,"11,644.00",Carregamento/descarga de 14555 m³ de Carga Solta,Carga Solta,14555.0
+Carga Geral C,2023-01-08,Singapura,Combustível,"27,413.93",Combustível em Singapura,,
+Carga Geral C,2023-01-08,Singapura,Carregamento/Descarga,"42,781.50",Carregamento/descarga de 28521 m³ de Veículos,Veículos,28521.0
+Carga Geral D,2023-01-08,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-08,Singapura,Manutenção,"2,028.65",Manutenção e reparos,,
+Carga Geral E,2023-01-08,Los Angeles,Carregamento/Descarga,"23,737.00",Carregamento/descarga de 47474 m³ de Granéis Sólidos,Granéis Sólidos,47474.0
+Carga Geral E,2023-01-08,Singapura,Taxas Portuárias,"2,852.85",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-09,Roterdã,Taxas Portuárias,"5,382.33",Taxas portuárias em Roterdã,,
+Carga Geral A,2023-01-09,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-09,Singapura,Manutenção,"3,123.46",Manutenção e reparos,,
+Carga Geral A,2023-01-09,Singapura,Taxas Portuárias,"5,620.34",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-09,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-09,Los Angeles,Taxas Portuárias,"4,379.17",Taxas portuárias em Los Angeles,,
+Carga Geral B,2023-01-09,Xangai,Carregamento/Descarga,"35,596.80",Carregamento/descarga de 44496 m³ de Carga Solta,Carga Solta,44496.0
+Carga Geral C,2023-01-09,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-09,Xangai,Carregamento/Descarga,"14,798.00",Carregamento/descarga de 14798 m³ de Outros,Outros,14798.0
+Carga Geral D,2023-01-09,Hamburgo,Carregamento/Descarga,"17,117.50",Carregamento/descarga de 34235 m³ de Granéis Sólidos,Granéis Sólidos,34235.0
+Carga Geral D,2023-01-09,Roterdã,Manutenção,"1,463.23",Manutenção e reparos,,
+Carga Geral D,2023-01-09,Roterdã,Carregamento/Descarga,"6,503.20",Carregamento/descarga de 8129 m³ de Carga Solta,Carga Solta,8129.0
+Carga Geral E,2023-01-09,Roterdã,Manutenção,"2,037.78",Manutenção e reparos,,
+Carga Geral E,2023-01-09,Hamburgo,Taxas Portuárias,"6,775.09",Taxas portuárias em Hamburgo,,
+Carga Geral A,2023-01-10,Xangai,Carregamento/Descarga,"5,938.40",Carregamento/descarga de 7423 m³ de Carga Solta,Carga Solta,7423.0
+Carga Geral A,2023-01-10,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-10,Los Angeles,Combustível,"22,763.92",Combustível em Los Angeles,,
+Carga Geral B,2023-01-10,Los Angeles,Manutenção,"2,499.14",Manutenção e reparos,,
+Carga Geral C,2023-01-10,Hamburgo,Carregamento/Descarga,"21,851.20",Carregamento/descarga de 27314 m³ de Carga Solta,Carga Solta,27314.0
+Carga Geral C,2023-01-10,Singapura,Carregamento/Descarga,"9,199.00",Carregamento/descarga de 18398 m³ de Granéis Sólidos,Granéis Sólidos,18398.0
+Carga Geral C,2023-01-10,Xangai,Combustível,"19,891.61",Combustível em Xangai,,
+Carga Geral C,2023-01-10,Roterdã,Taxas Portuárias,"6,834.13",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-10,Singapura,Manutenção,"1,761.76",Manutenção e reparos,,
+Carga Geral D,2023-01-10,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-10,Hamburgo,Carregamento/Descarga,"32,284.00",Carregamento/descarga de 32284 m³ de Outros,Outros,32284.0
+Carga Geral E,2023-01-10,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-10,Roterdã,Manutenção,"4,297.12",Manutenção e reparos,,
+Carga Geral E,2023-01-10,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-11,Los Angeles,Combustível,"19,891.28",Combustível em Los Angeles,,
+Carga Geral A,2023-01-11,Hamburgo,Carregamento/Descarga,"13,798.50",Carregamento/descarga de 9199 m³ de Veículos,Veículos,9199.0
+Carga Geral A,2023-01-11,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-11,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-11,Singapura,Carregamento/Descarga,"56,928.00",Carregamento/descarga de 47440 m³ de Contêineres,Contêineres,47440.0
+Carga Geral B,2023-01-11,Roterdã,Taxas Portuárias,"4,823.10",Taxas portuárias em Roterdã,,
 Carga Geral B,2023-01-11,Singapura,Manutenção,940.71,Manutenção e reparos,,
-Carga Geral C,2023-01-11,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-11,Hamburgo,Taxas Portuárias,4870.7,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-11,Xangai,Taxas Portuárias,4139.74,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-11,Hamburgo,Combustível,10031.8,Combustível em Hamburgo,,
-Carga Geral C,2023-01-11,Hamburgo,Combustível,8134.51,Combustível em Hamburgo,,
-Carga Geral D,2023-01-11,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-11,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-11,Xangai,Combustível,17318.04,Combustível em Xangai,,
-Carga Geral E,2023-01-11,Roterdã,Combustível,23565.43,Combustível em Roterdã,,
-Carga Geral A,2023-01-12,Los Angeles,Carregamento/Descarga,8025.0,Carregamento/descarga de 8025 m³ de Outros,Outros,8025.0
-Carga Geral B,2023-01-12,Los Angeles,Carregamento/Descarga,8967.0,Carregamento/descarga de 17934 m³ de Granéis Sólidos,Granéis Sólidos,17934.0
-Carga Geral B,2023-01-12,Roterdã,Manutenção,3753.65,Manutenção e reparos,,
-Carga Geral B,2023-01-12,Singapura,Manutenção,1058.55,Manutenção e reparos,,
-Carga Geral C,2023-01-12,Xangai,Manutenção,1659.47,Manutenção e reparos,,
-Carga Geral C,2023-01-12,Xangai,Taxas Portuárias,2151.8,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-12,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-12,Los Angeles,Manutenção,3319.38,Manutenção e reparos,,
-Carga Geral D,2023-01-12,Xangai,Combustível,16349.04,Combustível em Xangai,,
-Carga Geral D,2023-01-12,Xangai,Taxas Portuárias,2283.65,Taxas portuárias em Xangai,,
-Carga Geral D,2023-01-12,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-12,Roterdã,Carregamento/Descarga,14204.0,Carregamento/descarga de 17755 m³ de Carga Solta,Carga Solta,17755.0
-Carga Geral E,2023-01-12,Xangai,Manutenção,4017.96,Manutenção e reparos,,
-Carga Geral A,2023-01-13,Hamburgo,Manutenção,4149.5,Manutenção e reparos,,
-Carga Geral A,2023-01-13,Singapura,Manutenção,3543.51,Manutenção e reparos,,
-Carga Geral B,2023-01-13,Xangai,Carregamento/Descarga,11548.8,Carregamento/descarga de 9624 m³ de Contêineres,Contêineres,9624.0
-Carga Geral B,2023-01-13,Los Angeles,Taxas Portuárias,3317.01,Taxas portuárias em Los Angeles,,
-Carga Geral B,2023-01-13,Roterdã,Taxas Portuárias,6788.05,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-13,Los Angeles,Taxas Portuárias,2987.02,Taxas portuárias em Los Angeles,,
-Carga Geral C,2023-01-13,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-13,Singapura,Carregamento/Descarga,6331.5,Carregamento/descarga de 12663 m³ de Granéis Sólidos,Granéis Sólidos,12663.0
-Carga Geral D,2023-01-13,Hamburgo,Carregamento/Descarga,56905.5,Carregamento/descarga de 37937 m³ de Veículos,Veículos,37937.0
-Carga Geral E,2023-01-13,Roterdã,Taxas Portuárias,5321.25,Taxas portuárias em Roterdã,,
-Carga Geral E,2023-01-13,Xangai,Manutenção,4175.07,Manutenção e reparos,,
-Carga Geral E,2023-01-13,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-13,Roterdã,Taxas Portuárias,2635.2,Taxas portuárias em Roterdã,,
-Carga Geral A,2023-01-14,Los Angeles,Manutenção,3161.88,Manutenção e reparos,,
-Carga Geral B,2023-01-14,Hamburgo,Manutenção,2538.8,Manutenção e reparos,,
-Carga Geral B,2023-01-14,Hamburgo,Carregamento/Descarga,9377.0,Carregamento/descarga de 9377 m³ de Outros,Outros,9377.0
-Carga Geral B,2023-01-14,Los Angeles,Combustível,20222.17,Combustível em Los Angeles,,
-Carga Geral B,2023-01-14,Xangai,Taxas Portuárias,6312.08,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-14,Xangai,Carregamento/Descarga,24714.0,Carregamento/descarga de 16476 m³ de Veículos,Veículos,16476.0
-Carga Geral C,2023-01-14,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-14,Xangai,Carregamento/Descarga,17143.2,Carregamento/descarga de 14286 m³ de Contêineres,Contêineres,14286.0
-Carga Geral C,2023-01-14,Hamburgo,Taxas Portuárias,2063.43,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-14,Hamburgo,Manutenção,1547.08,Manutenção e reparos,,
-Carga Geral D,2023-01-14,Roterdã,Taxas Portuárias,2721.38,Taxas portuárias em Roterdã,,
-Carga Geral D,2023-01-14,Singapura,Carregamento/Descarga,11420.5,Carregamento/descarga de 22841 m³ de Granéis Sólidos,Granéis Sólidos,22841.0
-Carga Geral E,2023-01-14,Roterdã,Combustível,25447.67,Combustível em Roterdã,,
-Carga Geral E,2023-01-14,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-14,Xangai,Carregamento/Descarga,33439.2,Carregamento/descarga de 27866 m³ de Contêineres,Contêineres,27866.0
-Carga Geral E,2023-01-14,Xangai,Carregamento/Descarga,48318.0,Carregamento/descarga de 40265 m³ de Contêineres,Contêineres,40265.0
-Carga Geral E,2023-01-14,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-15,Hamburgo,Combustível,9946.99,Combustível em Hamburgo,,
-Carga Geral A,2023-01-15,Hamburgo,Carregamento/Descarga,33537.0,Carregamento/descarga de 33537 m³ de Outros,Outros,33537.0
-Carga Geral A,2023-01-15,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-15,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-15,Roterdã,Manutenção,3574.15,Manutenção e reparos,,
-Carga Geral B,2023-01-15,Singapura,Manutenção,2721.55,Manutenção e reparos,,
-Carga Geral C,2023-01-15,Roterdã,Combustível,26280.45,Combustível em Roterdã,,
-Carga Geral C,2023-01-15,Roterdã,Taxas Portuárias,4353.74,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-15,Xangai,Combustível,21142.99,Combustível em Xangai,,
-Carga Geral C,2023-01-15,Hamburgo,Carregamento/Descarga,34273.5,Carregamento/descarga de 22849 m³ de Veículos,Veículos,22849.0
-Carga Geral C,2023-01-15,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-15,Hamburgo,Combustível,11456.93,Combustível em Hamburgo,,
-Carga Geral D,2023-01-15,Los Angeles,Carregamento/Descarga,8449.6,Carregamento/descarga de 10562 m³ de Carga Solta,Carga Solta,10562.0
-Carga Geral D,2023-01-15,Hamburgo,Carregamento/Descarga,17516.8,Carregamento/descarga de 21896 m³ de Carga Solta,Carga Solta,21896.0
-Carga Geral D,2023-01-15,Singapura,Taxas Portuárias,5010.88,Taxas portuárias em Singapura,,
-Carga Geral D,2023-01-15,Singapura,Combustível,27924.98,Combustível em Singapura,,
-Carga Geral E,2023-01-15,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-16,Singapura,Manutenção,3811.88,Manutenção e reparos,,
-Carga Geral B,2023-01-16,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-16,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-16,Los Angeles,Carregamento/Descarga,54157.5,Carregamento/descarga de 36105 m³ de Veículos,Veículos,36105.0
-Carga Geral D,2023-01-16,Roterdã,Combustível,27508.63,Combustível em Roterdã,,
-Carga Geral D,2023-01-16,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-16,Hamburgo,Taxas Portuárias,4721.07,Taxas portuárias em Hamburgo,,
-Carga Geral E,2023-01-16,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-16,Xangai,Carregamento/Descarga,10124.4,Carregamento/descarga de 8437 m³ de Contêineres,Contêineres,8437.0
-Carga Geral E,2023-01-16,Los Angeles,Manutenção,1103.89,Manutenção e reparos,,
-Carga Geral E,2023-01-16,Los Angeles,Carregamento/Descarga,23707.0,Carregamento/descarga de 47414 m³ de Granéis Sólidos,Granéis Sólidos,47414.0
-Carga Geral A,2023-01-17,Singapura,Taxas Portuárias,2879.2,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-17,Roterdã,Manutenção,3605.41,Manutenção e reparos,,
-Carga Geral B,2023-01-17,Los Angeles,Combustível,21420.95,Combustível em Los Angeles,,
-Carga Geral B,2023-01-17,Roterdã,Taxas Portuárias,3182.27,Taxas portuárias em Roterdã,,
-Carga Geral B,2023-01-17,Hamburgo,Combustível,16152.79,Combustível em Hamburgo,,
-Carga Geral B,2023-01-17,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-17,Xangai,Combustível,18712.32,Combustível em Xangai,,
-Carga Geral C,2023-01-17,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-17,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-17,Hamburgo,Manutenção,2856.61,Manutenção e reparos,,
-Carga Geral C,2023-01-17,Hamburgo,Manutenção,3088.98,Manutenção e reparos,,
-Carga Geral C,2023-01-17,Los Angeles,Taxas Portuárias,5609.66,Taxas portuárias em Los Angeles,,
-Carga Geral D,2023-01-17,Singapura,Combustível,22604.56,Combustível em Singapura,,
-Carga Geral D,2023-01-17,Roterdã,Taxas Portuárias,2159.37,Taxas portuárias em Roterdã,,
-Carga Geral E,2023-01-17,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-17,Los Angeles,Manutenção,4252.72,Manutenção e reparos,,
-Carga Geral E,2023-01-17,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-17,Xangai,Combustível,22796.6,Combustível em Xangai,,
-Carga Geral E,2023-01-17,Xangai,Taxas Portuárias,4342.1,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-18,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-18,Singapura,Carregamento/Descarga,42001.2,Carregamento/descarga de 35001 m³ de Contêineres,Contêineres,35001.0
-Carga Geral C,2023-01-18,Roterdã,Taxas Portuárias,2172.24,Taxas portuárias em Roterdã,,
-Carga Geral D,2023-01-18,Hamburgo,Carregamento/Descarga,40146.0,Carregamento/descarga de 26764 m³ de Veículos,Veículos,26764.0
-Carga Geral D,2023-01-18,Hamburgo,Taxas Portuárias,4903.58,Taxas portuárias em Hamburgo,,
-Carga Geral D,2023-01-18,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-18,Roterdã,Manutenção,3097.22,Manutenção e reparos,,
-Carga Geral E,2023-01-18,Xangai,Manutenção,4381.52,Manutenção e reparos,,
-Carga Geral E,2023-01-18,Los Angeles,Taxas Portuárias,4674.82,Taxas portuárias em Los Angeles,,
-Carga Geral A,2023-01-19,Xangai,Combustível,20230.62,Combustível em Xangai,,
-Carga Geral A,2023-01-19,Singapura,Manutenção,3700.72,Manutenção e reparos,,
-Carga Geral A,2023-01-19,Los Angeles,Taxas Portuárias,5244.13,Taxas portuárias em Los Angeles,,
-Carga Geral B,2023-01-19,Hamburgo,Carregamento/Descarga,32415.2,Carregamento/descarga de 40519 m³ de Carga Solta,Carga Solta,40519.0
-Carga Geral B,2023-01-19,Singapura,Manutenção,3211.57,Manutenção e reparos,,
-Carga Geral B,2023-01-19,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-19,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-19,Hamburgo,Carregamento/Descarga,7066.8,Carregamento/descarga de 5889 m³ de Contêineres,Contêineres,5889.0
-Carga Geral C,2023-01-19,Roterdã,Combustível,22936.03,Combustível em Roterdã,,
-Carga Geral C,2023-01-19,Hamburgo,Taxas Portuárias,3381.16,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-19,Los Angeles,Carregamento/Descarga,46522.8,Carregamento/descarga de 38769 m³ de Contêineres,Contêineres,38769.0
-Carga Geral D,2023-01-19,Hamburgo,Carregamento/Descarga,43644.0,Carregamento/descarga de 36370 m³ de Contêineres,Contêineres,36370.0
-Carga Geral D,2023-01-19,Los Angeles,Combustível,19150.78,Combustível em Los Angeles,,
-Carga Geral D,2023-01-19,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-19,Singapura,Taxas Portuárias,5608.6,Taxas portuárias em Singapura,,
-Carga Geral D,2023-01-19,Xangai,Combustível,9005.43,Combustível em Xangai,,
-Carga Geral E,2023-01-19,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-19,Los Angeles,Taxas Portuárias,6813.75,Taxas portuárias em Los Angeles,,
-Carga Geral E,2023-01-19,Xangai,Combustível,11623.41,Combustível em Xangai,,
-Carga Geral A,2023-01-20,Hamburgo,Combustível,10876.29,Combustível em Hamburgo,,
-Carga Geral B,2023-01-20,Singapura,Carregamento/Descarga,33059.2,Carregamento/descarga de 41324 m³ de Carga Solta,Carga Solta,41324.0
-Carga Geral B,2023-01-20,Los Angeles,Combustível,24145.34,Combustível em Los Angeles,,
-Carga Geral B,2023-01-20,Los Angeles,Combustível,20135.93,Combustível em Los Angeles,,
-Carga Geral C,2023-01-20,Xangai,Combustível,9219.55,Combustível em Xangai,,
-Carga Geral C,2023-01-20,Hamburgo,Manutenção,1175.63,Manutenção e reparos,,
-Carga Geral C,2023-01-20,Xangai,Manutenção,1384.61,Manutenção e reparos,,
-Carga Geral C,2023-01-20,Hamburgo,Taxas Portuárias,3718.08,Taxas portuárias em Hamburgo,,
-Carga Geral C,2023-01-20,Xangai,Manutenção,2229.54,Manutenção e reparos,,
-Carga Geral D,2023-01-20,Singapura,Taxas Portuárias,6666.79,Taxas portuárias em Singapura,,
-Carga Geral D,2023-01-20,Hamburgo,Manutenção,1248.15,Manutenção e reparos,,
-Carga Geral D,2023-01-20,Singapura,Manutenção,3556.08,Manutenção e reparos,,
-Carga Geral D,2023-01-20,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-20,Roterdã,Combustível,10753.26,Combustível em Roterdã,,
-Carga Geral E,2023-01-20,Xangai,Carregamento/Descarga,27608.0,Carregamento/descarga de 27608 m³ de Outros,Outros,27608.0
-Carga Geral E,2023-01-20,Hamburgo,Taxas Portuárias,5632.59,Taxas portuárias em Hamburgo,,
-Carga Geral E,2023-01-20,Roterdã,Carregamento/Descarga,25461.0,Carregamento/descarga de 25461 m³ de Outros,Outros,25461.0
-Carga Geral E,2023-01-20,Roterdã,Combustível,11811.41,Combustível em Roterdã,,
-Carga Geral E,2023-01-20,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-21,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-21,Los Angeles,Manutenção,2760.52,Manutenção e reparos,,
-Carga Geral C,2023-01-21,Los Angeles,Combustível,17794.45,Combustível em Los Angeles,,
-Carga Geral C,2023-01-21,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-21,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-21,Xangai,Taxas Portuárias,2333.1,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-21,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-21,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-21,Xangai,Taxas Portuárias,4635.85,Taxas portuárias em Xangai,,
-Carga Geral D,2023-01-21,Los Angeles,Combustível,15248.17,Combustível em Los Angeles,,
-Carga Geral D,2023-01-21,Hamburgo,Manutenção,1995.18,Manutenção e reparos,,
-Carga Geral E,2023-01-21,Hamburgo,Manutenção,3263.63,Manutenção e reparos,,
-Carga Geral E,2023-01-21,Xangai,Manutenção,2819.92,Manutenção e reparos,,
-Carga Geral E,2023-01-21,Los Angeles,Manutenção,1863.02,Manutenção e reparos,,
-Carga Geral E,2023-01-21,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-22,Los Angeles,Combustível,21966.1,Combustível em Los Angeles,,
-Carga Geral A,2023-01-22,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-22,Xangai,Carregamento/Descarga,19551.0,Carregamento/descarga de 19551 m³ de Outros,Outros,19551.0
-Carga Geral B,2023-01-22,Los Angeles,Manutenção,3563.73,Manutenção e reparos,,
-Carga Geral B,2023-01-22,Xangai,Combustível,25928.01,Combustível em Xangai,,
-Carga Geral B,2023-01-22,Hamburgo,Taxas Portuárias,3628.03,Taxas portuárias em Hamburgo,,
-Carga Geral B,2023-01-22,Roterdã,Taxas Portuárias,5698.98,Taxas portuárias em Roterdã,,
-Carga Geral C,2023-01-22,Xangai,Taxas Portuárias,4089.02,Taxas portuárias em Xangai,,
-Carga Geral D,2023-01-22,Roterdã,Carregamento/Descarga,14172.5,Carregamento/descarga de 28345 m³ de Granéis Sólidos,Granéis Sólidos,28345.0
-Carga Geral E,2023-01-22,Los Angeles,Combustível,18394.79,Combustível em Los Angeles,,
-Carga Geral E,2023-01-22,Singapura,Manutenção,2831.74,Manutenção e reparos,,
-Carga Geral A,2023-01-23,Los Angeles,Combustível,25743.33,Combustível em Los Angeles,,
-Carga Geral A,2023-01-23,Xangai,Taxas Portuárias,4834.56,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-23,Xangai,Manutenção,1082.04,Manutenção e reparos,,
-Carga Geral A,2023-01-23,Singapura,Taxas Portuárias,4179.15,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-23,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-23,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-23,Xangai,Taxas Portuárias,2099.32,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-23,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-23,Roterdã,Manutenção,2013.22,Manutenção e reparos,,
-Carga Geral D,2023-01-23,Roterdã,Manutenção,3372.48,Manutenção e reparos,,
-Carga Geral D,2023-01-23,Roterdã,Combustível,24901.35,Combustível em Roterdã,,
-Carga Geral D,2023-01-23,Roterdã,Carregamento/Descarga,18697.5,Carregamento/descarga de 12465 m³ de Veículos,Veículos,12465.0
-Carga Geral D,2023-01-23,Los Angeles,Carregamento/Descarga,22398.0,Carregamento/descarga de 18665 m³ de Contêineres,Contêineres,18665.0
-Carga Geral D,2023-01-23,Singapura,Manutenção,3089.28,Manutenção e reparos,,
-Carga Geral E,2023-01-23,Los Angeles,Manutenção,2798.64,Manutenção e reparos,,
-Carga Geral A,2023-01-24,Hamburgo,Manutenção,1468.13,Manutenção e reparos,,
-Carga Geral A,2023-01-24,Hamburgo,Manutenção,1248.96,Manutenção e reparos,,
-Carga Geral A,2023-01-24,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-24,Hamburgo,Taxas Portuárias,2280.29,Taxas portuárias em Hamburgo,,
-Carga Geral A,2023-01-24,Hamburgo,Taxas Portuárias,2868.93,Taxas portuárias em Hamburgo,,
-Carga Geral B,2023-01-24,Xangai,Taxas Portuárias,5268.48,Taxas portuárias em Xangai,,
-Carga Geral B,2023-01-24,Hamburgo,Combustível,22482.18,Combustível em Hamburgo,,
-Carga Geral B,2023-01-24,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-24,Los Angeles,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-24,Los Angeles,Carregamento/Descarga,9657.0,Carregamento/descarga de 6438 m³ de Veículos,Veículos,6438.0
-Carga Geral E,2023-01-24,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-25,Roterdã,Carregamento/Descarga,31740.0,Carregamento/descarga de 39675 m³ de Carga Solta,Carga Solta,39675.0
-Carga Geral A,2023-01-25,Hamburgo,Combustível,12948.4,Combustível em Hamburgo,,
-Carga Geral A,2023-01-25,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-25,Hamburgo,Combustível,21473.51,Combustível em Hamburgo,,
-Carga Geral A,2023-01-25,Hamburgo,Carregamento/Descarga,33204.0,Carregamento/descarga de 27670 m³ de Contêineres,Contêineres,27670.0
-Carga Geral B,2023-01-25,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-25,Roterdã,Combustível,26392.06,Combustível em Roterdã,,
-Carga Geral B,2023-01-25,Hamburgo,Manutenção,3856.42,Manutenção e reparos,,
-Carga Geral B,2023-01-25,Roterdã,Taxas Portuárias,3997.05,Taxas portuárias em Roterdã,,
-Carga Geral B,2023-01-25,Xangai,Manutenção,1235.14,Manutenção e reparos,,
-Carga Geral C,2023-01-25,Los Angeles,Taxas Portuárias,4784.47,Taxas portuárias em Los Angeles,,
-Carga Geral C,2023-01-25,Hamburgo,Combustível,12001.8,Combustível em Hamburgo,,
-Carga Geral C,2023-01-25,Los Angeles,Combustível,8131.35,Combustível em Los Angeles,,
-Carga Geral D,2023-01-25,Xangai,Taxas Portuárias,6746.25,Taxas portuárias em Xangai,,
-Carga Geral E,2023-01-25,Los Angeles,Combustível,16716.13,Combustível em Los Angeles,,
-Carga Geral E,2023-01-25,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-26,Hamburgo,Manutenção,3647.8,Manutenção e reparos,,
-Carga Geral A,2023-01-26,Singapura,Carregamento/Descarga,24818.4,Carregamento/descarga de 20682 m³ de Contêineres,Contêineres,20682.0
-Carga Geral A,2023-01-26,Hamburgo,Carregamento/Descarga,20170.0,Carregamento/descarga de 40340 m³ de Granéis Sólidos,Granéis Sólidos,40340.0
-Carga Geral A,2023-01-26,Singapura,Combustível,23499.05,Combustível em Singapura,,
-Carga Geral A,2023-01-26,Los Angeles,Manutenção,3215.46,Manutenção e reparos,,
-Carga Geral B,2023-01-26,Xangai,Carregamento/Descarga,3349.0,Carregamento/descarga de 6698 m³ de Granéis Sólidos,Granéis Sólidos,6698.0
-Carga Geral C,2023-01-26,Xangai,Carregamento/Descarga,19067.2,Carregamento/descarga de 23834 m³ de Carga Solta,Carga Solta,23834.0
-Carga Geral C,2023-01-26,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-26,Xangai,Taxas Portuárias,3450.21,Taxas portuárias em Xangai,,
-Carga Geral C,2023-01-26,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-26,Roterdã,Taxas Portuárias,4901.7,Taxas portuárias em Roterdã,,
-Carga Geral D,2023-01-26,Los Angeles,Manutenção,3666.85,Manutenção e reparos,,
-Carga Geral D,2023-01-26,Hamburgo,Taxas Portuárias,2830.7,Taxas portuárias em Hamburgo,,
-Carga Geral D,2023-01-26,Singapura,Combustível,9976.21,Combustível em Singapura,,
-Carga Geral D,2023-01-26,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-26,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-26,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-27,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-27,Singapura,Taxas Portuárias,5154.82,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-27,Hamburgo,Taxas Portuárias,6725.91,Taxas portuárias em Hamburgo,,
-Carga Geral A,2023-01-27,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-27,Hamburgo,Taxas Portuárias,5105.11,Taxas portuárias em Hamburgo,,
-Carga Geral B,2023-01-27,Los Angeles,Combustível,26279.68,Combustível em Los Angeles,,
-Carga Geral B,2023-01-27,Hamburgo,Combustível,17433.38,Combustível em Hamburgo,,
-Carga Geral B,2023-01-27,Hamburgo,Combustível,21005.09,Combustível em Hamburgo,,
-Carga Geral C,2023-01-27,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-27,Roterdã,Combustível,8261.99,Combustível em Roterdã,,
-Carga Geral E,2023-01-27,Xangai,Combustível,16324.53,Combustível em Xangai,,
-Carga Geral E,2023-01-27,Xangai,Manutenção,4025.3,Manutenção e reparos,,
-Carga Geral E,2023-01-27,Xangai,Taxas Portuárias,3908.07,Taxas portuárias em Xangai,,
-Carga Geral E,2023-01-27,Singapura,Carregamento/Descarga,39565.6,Carregamento/descarga de 49457 m³ de Carga Solta,Carga Solta,49457.0
-Carga Geral E,2023-01-27,Los Angeles,Carregamento/Descarga,44412.0,Carregamento/descarga de 44412 m³ de Outros,Outros,44412.0
-Carga Geral A,2023-01-28,Hamburgo,Carregamento/Descarga,49058.0,Carregamento/descarga de 49058 m³ de Outros,Outros,49058.0
-Carga Geral A,2023-01-28,Xangai,Carregamento/Descarga,17168.0,Carregamento/descarga de 17168 m³ de Outros,Outros,17168.0
-Carga Geral A,2023-01-28,Xangai,Taxas Portuárias,3537.94,Taxas portuárias em Xangai,,
-Carga Geral B,2023-01-28,Roterdã,Manutenção,2198.13,Manutenção e reparos,,
-Carga Geral B,2023-01-28,Roterdã,Combustível,20283.2,Combustível em Roterdã,,
-Carga Geral B,2023-01-28,Xangai,Carregamento/Descarga,22796.0,Carregamento/descarga de 45592 m³ de Granéis Sólidos,Granéis Sólidos,45592.0
-Carga Geral B,2023-01-28,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral B,2023-01-28,Hamburgo,Carregamento/Descarga,43448.4,Carregamento/descarga de 36207 m³ de Contêineres,Contêineres,36207.0
-Carga Geral C,2023-01-28,Singapura,Manutenção,2285.74,Manutenção e reparos,,
-Carga Geral D,2023-01-28,Roterdã,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-28,Los Angeles,Manutenção,3907.64,Manutenção e reparos,,
-Carga Geral D,2023-01-28,Roterdã,Manutenção,3000.07,Manutenção e reparos,,
-Carga Geral D,2023-01-28,Hamburgo,Combustível,12241.83,Combustível em Hamburgo,,
-Carga Geral E,2023-01-28,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-28,Los Angeles,Carregamento/Descarga,29890.4,Carregamento/descarga de 37363 m³ de Carga Solta,Carga Solta,37363.0
-Carga Geral E,2023-01-28,Singapura,Carregamento/Descarga,40950.0,Carregamento/descarga de 34125 m³ de Contêineres,Contêineres,34125.0
-Carga Geral A,2023-01-29,Singapura,Carregamento/Descarga,21550.8,Carregamento/descarga de 17959 m³ de Contêineres,Contêineres,17959.0
-Carga Geral A,2023-01-29,Xangai,Taxas Portuárias,3066.6,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-29,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-29,Singapura,Taxas Portuárias,6201.68,Taxas portuárias em Singapura,,
-Carga Geral B,2023-01-29,Hamburgo,Manutenção,4452.55,Manutenção e reparos,,
-Carga Geral B,2023-01-29,Hamburgo,Taxas Portuárias,3918.03,Taxas portuárias em Hamburgo,,
-Carga Geral B,2023-01-29,Singapura,Combustível,12196.97,Combustível em Singapura,,
-Carga Geral C,2023-01-29,Los Angeles,Taxas Portuárias,3467.25,Taxas portuárias em Los Angeles,,
-Carga Geral C,2023-01-29,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral C,2023-01-29,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-29,Roterdã,Carregamento/Descarga,28320.0,Carregamento/descarga de 18880 m³ de Veículos,Veículos,18880.0
-Carga Geral D,2023-01-29,Hamburgo,Taxas Portuárias,2821.79,Taxas portuárias em Hamburgo,,
-Carga Geral D,2023-01-29,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-29,Xangai,Combustível,27681.93,Combustível em Xangai,,
-Carga Geral E,2023-01-29,Xangai,Manutenção,2253.71,Manutenção e reparos,,
-Carga Geral E,2023-01-29,Roterdã,Manutenção,4327.24,Manutenção e reparos,,
-Carga Geral A,2023-01-30,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral A,2023-01-30,Singapura,Taxas Portuárias,4374.07,Taxas portuárias em Singapura,,
-Carga Geral A,2023-01-30,Xangai,Taxas Portuárias,6029.88,Taxas portuárias em Xangai,,
-Carga Geral A,2023-01-30,Roterdã,Manutenção,3095.28,Manutenção e reparos,,
-Carga Geral B,2023-01-30,Los Angeles,Taxas Portuárias,4179.73,Taxas portuárias em Los Angeles,,
-Carga Geral C,2023-01-30,Singapura,Carregamento/Descarga,34235.2,Carregamento/descarga de 42794 m³ de Carga Solta,Carga Solta,42794.0
-Carga Geral C,2023-01-30,Roterdã,Combustível,25266.53,Combustível em Roterdã,,
-Carga Geral D,2023-01-30,Xangai,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-30,Roterdã,Manutenção,3154.3,Manutenção e reparos,,
-Carga Geral D,2023-01-30,Roterdã,Carregamento/Descarga,22173.6,Carregamento/descarga de 27717 m³ de Carga Solta,Carga Solta,27717.0
-Carga Geral D,2023-01-30,Hamburgo,Seguros,1900.0,Seguro diário,,
-Carga Geral D,2023-01-30,Singapura,Taxas Portuárias,6372.71,Taxas portuárias em Singapura,,
-Carga Geral E,2023-01-30,Xangai,Manutenção,4457.51,Manutenção e reparos,,
-Carga Geral E,2023-01-30,Singapura,Seguros,1900.0,Seguro diário,,
-Carga Geral E,2023-01-30,Roterdã,Combustível,27295.34,Combustível em Roterdã,,
-Carga Geral E,2023-01-30,Hamburgo,Taxas Portuárias,4870.22,Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-11,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-11,Hamburgo,Taxas Portuárias,"4,870.70",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-11,Xangai,Taxas Portuárias,"4,139.74",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-11,Hamburgo,Combustível,"10,031.80",Combustível em Hamburgo,,
+Carga Geral C,2023-01-11,Hamburgo,Combustível,"8,134.51",Combustível em Hamburgo,,
+Carga Geral D,2023-01-11,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-11,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-11,Xangai,Combustível,"17,318.04",Combustível em Xangai,,
+Carga Geral E,2023-01-11,Roterdã,Combustível,"23,565.43",Combustível em Roterdã,,
+Carga Geral A,2023-01-12,Los Angeles,Carregamento/Descarga,"8,025.00",Carregamento/descarga de 8025 m³ de Outros,Outros,8025.0
+Carga Geral B,2023-01-12,Los Angeles,Carregamento/Descarga,"8,967.00",Carregamento/descarga de 17934 m³ de Granéis Sólidos,Granéis Sólidos,17934.0
+Carga Geral B,2023-01-12,Roterdã,Manutenção,"3,753.65",Manutenção e reparos,,
+Carga Geral B,2023-01-12,Singapura,Manutenção,"1,058.55",Manutenção e reparos,,
+Carga Geral C,2023-01-12,Xangai,Manutenção,"1,659.47",Manutenção e reparos,,
+Carga Geral C,2023-01-12,Xangai,Taxas Portuárias,"2,151.80",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-12,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-12,Los Angeles,Manutenção,"3,319.38",Manutenção e reparos,,
+Carga Geral D,2023-01-12,Xangai,Combustível,"16,349.04",Combustível em Xangai,,
+Carga Geral D,2023-01-12,Xangai,Taxas Portuárias,"2,283.65",Taxas portuárias em Xangai,,
+Carga Geral D,2023-01-12,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-12,Roterdã,Carregamento/Descarga,"14,204.00",Carregamento/descarga de 17755 m³ de Carga Solta,Carga Solta,17755.0
+Carga Geral E,2023-01-12,Xangai,Manutenção,"4,017.96",Manutenção e reparos,,
+Carga Geral A,2023-01-13,Hamburgo,Manutenção,"4,149.50",Manutenção e reparos,,
+Carga Geral A,2023-01-13,Singapura,Manutenção,"3,543.51",Manutenção e reparos,,
+Carga Geral B,2023-01-13,Xangai,Carregamento/Descarga,"11,548.80",Carregamento/descarga de 9624 m³ de Contêineres,Contêineres,9624.0
+Carga Geral B,2023-01-13,Los Angeles,Taxas Portuárias,"3,317.01",Taxas portuárias em Los Angeles,,
+Carga Geral B,2023-01-13,Roterdã,Taxas Portuárias,"6,788.05",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-13,Los Angeles,Taxas Portuárias,"2,987.02",Taxas portuárias em Los Angeles,,
+Carga Geral C,2023-01-13,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-13,Singapura,Carregamento/Descarga,"6,331.50",Carregamento/descarga de 12663 m³ de Granéis Sólidos,Granéis Sólidos,12663.0
+Carga Geral D,2023-01-13,Hamburgo,Carregamento/Descarga,"56,905.50",Carregamento/descarga de 37937 m³ de Veículos,Veículos,37937.0
+Carga Geral E,2023-01-13,Roterdã,Taxas Portuárias,"5,321.25",Taxas portuárias em Roterdã,,
+Carga Geral E,2023-01-13,Xangai,Manutenção,"4,175.07",Manutenção e reparos,,
+Carga Geral E,2023-01-13,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-13,Roterdã,Taxas Portuárias,"2,635.20",Taxas portuárias em Roterdã,,
+Carga Geral A,2023-01-14,Los Angeles,Manutenção,"3,161.88",Manutenção e reparos,,
+Carga Geral B,2023-01-14,Hamburgo,Manutenção,"2,538.80",Manutenção e reparos,,
+Carga Geral B,2023-01-14,Hamburgo,Carregamento/Descarga,"9,377.00",Carregamento/descarga de 9377 m³ de Outros,Outros,9377.0
+Carga Geral B,2023-01-14,Los Angeles,Combustível,"20,222.17",Combustível em Los Angeles,,
+Carga Geral B,2023-01-14,Xangai,Taxas Portuárias,"6,312.08",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-14,Xangai,Carregamento/Descarga,"24,714.00",Carregamento/descarga de 16476 m³ de Veículos,Veículos,16476.0
+Carga Geral C,2023-01-14,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-14,Xangai,Carregamento/Descarga,"17,143.20",Carregamento/descarga de 14286 m³ de Contêineres,Contêineres,14286.0
+Carga Geral C,2023-01-14,Hamburgo,Taxas Portuárias,"2,063.43",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-14,Hamburgo,Manutenção,"1,547.08",Manutenção e reparos,,
+Carga Geral D,2023-01-14,Roterdã,Taxas Portuárias,"2,721.38",Taxas portuárias em Roterdã,,
+Carga Geral D,2023-01-14,Singapura,Carregamento/Descarga,"11,420.50",Carregamento/descarga de 22841 m³ de Granéis Sólidos,Granéis Sólidos,22841.0
+Carga Geral E,2023-01-14,Roterdã,Combustível,"25,447.67",Combustível em Roterdã,,
+Carga Geral E,2023-01-14,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-14,Xangai,Carregamento/Descarga,"33,439.20",Carregamento/descarga de 27866 m³ de Contêineres,Contêineres,27866.0
+Carga Geral E,2023-01-14,Xangai,Carregamento/Descarga,"48,318.00",Carregamento/descarga de 40265 m³ de Contêineres,Contêineres,40265.0
+Carga Geral E,2023-01-14,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-15,Hamburgo,Combustível,"9,946.99",Combustível em Hamburgo,,
+Carga Geral A,2023-01-15,Hamburgo,Carregamento/Descarga,"33,537.00",Carregamento/descarga de 33537 m³ de Outros,Outros,33537.0
+Carga Geral A,2023-01-15,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-15,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-15,Roterdã,Manutenção,"3,574.15",Manutenção e reparos,,
+Carga Geral B,2023-01-15,Singapura,Manutenção,"2,721.55",Manutenção e reparos,,
+Carga Geral C,2023-01-15,Roterdã,Combustível,"26,280.45",Combustível em Roterdã,,
+Carga Geral C,2023-01-15,Roterdã,Taxas Portuárias,"4,353.74",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-15,Xangai,Combustível,"21,142.99",Combustível em Xangai,,
+Carga Geral C,2023-01-15,Hamburgo,Carregamento/Descarga,"34,273.50",Carregamento/descarga de 22849 m³ de Veículos,Veículos,22849.0
+Carga Geral C,2023-01-15,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-15,Hamburgo,Combustível,"11,456.93",Combustível em Hamburgo,,
+Carga Geral D,2023-01-15,Los Angeles,Carregamento/Descarga,"8,449.60",Carregamento/descarga de 10562 m³ de Carga Solta,Carga Solta,10562.0
+Carga Geral D,2023-01-15,Hamburgo,Carregamento/Descarga,"17,516.80",Carregamento/descarga de 21896 m³ de Carga Solta,Carga Solta,21896.0
+Carga Geral D,2023-01-15,Singapura,Taxas Portuárias,"5,010.88",Taxas portuárias em Singapura,,
+Carga Geral D,2023-01-15,Singapura,Combustível,"27,924.98",Combustível em Singapura,,
+Carga Geral E,2023-01-15,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-16,Singapura,Manutenção,"3,811.88",Manutenção e reparos,,
+Carga Geral B,2023-01-16,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-16,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-16,Los Angeles,Carregamento/Descarga,"54,157.50",Carregamento/descarga de 36105 m³ de Veículos,Veículos,36105.0
+Carga Geral D,2023-01-16,Roterdã,Combustível,"27,508.63",Combustível em Roterdã,,
+Carga Geral D,2023-01-16,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-16,Hamburgo,Taxas Portuárias,"4,721.07",Taxas portuárias em Hamburgo,,
+Carga Geral E,2023-01-16,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-16,Xangai,Carregamento/Descarga,"10,124.40",Carregamento/descarga de 8437 m³ de Contêineres,Contêineres,8437.0
+Carga Geral E,2023-01-16,Los Angeles,Manutenção,"1,103.89",Manutenção e reparos,,
+Carga Geral E,2023-01-16,Los Angeles,Carregamento/Descarga,"23,707.00",Carregamento/descarga de 47414 m³ de Granéis Sólidos,Granéis Sólidos,47414.0
+Carga Geral A,2023-01-17,Singapura,Taxas Portuárias,"2,879.20",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-17,Roterdã,Manutenção,"3,605.41",Manutenção e reparos,,
+Carga Geral B,2023-01-17,Los Angeles,Combustível,"21,420.95",Combustível em Los Angeles,,
+Carga Geral B,2023-01-17,Roterdã,Taxas Portuárias,"3,182.27",Taxas portuárias em Roterdã,,
+Carga Geral B,2023-01-17,Hamburgo,Combustível,"16,152.79",Combustível em Hamburgo,,
+Carga Geral B,2023-01-17,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-17,Xangai,Combustível,"18,712.32",Combustível em Xangai,,
+Carga Geral C,2023-01-17,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-17,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-17,Hamburgo,Manutenção,"2,856.61",Manutenção e reparos,,
+Carga Geral C,2023-01-17,Hamburgo,Manutenção,"3,088.98",Manutenção e reparos,,
+Carga Geral C,2023-01-17,Los Angeles,Taxas Portuárias,"5,609.66",Taxas portuárias em Los Angeles,,
+Carga Geral D,2023-01-17,Singapura,Combustível,"22,604.56",Combustível em Singapura,,
+Carga Geral D,2023-01-17,Roterdã,Taxas Portuárias,"2,159.37",Taxas portuárias em Roterdã,,
+Carga Geral E,2023-01-17,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-17,Los Angeles,Manutenção,"4,252.72",Manutenção e reparos,,
+Carga Geral E,2023-01-17,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-17,Xangai,Combustível,"22,796.60",Combustível em Xangai,,
+Carga Geral E,2023-01-17,Xangai,Taxas Portuárias,"4,342.10",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-18,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-18,Singapura,Carregamento/Descarga,"42,001.20",Carregamento/descarga de 35001 m³ de Contêineres,Contêineres,35001.0
+Carga Geral C,2023-01-18,Roterdã,Taxas Portuárias,"2,172.24",Taxas portuárias em Roterdã,,
+Carga Geral D,2023-01-18,Hamburgo,Carregamento/Descarga,"40,146.00",Carregamento/descarga de 26764 m³ de Veículos,Veículos,26764.0
+Carga Geral D,2023-01-18,Hamburgo,Taxas Portuárias,"4,903.58",Taxas portuárias em Hamburgo,,
+Carga Geral D,2023-01-18,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-18,Roterdã,Manutenção,"3,097.22",Manutenção e reparos,,
+Carga Geral E,2023-01-18,Xangai,Manutenção,"4,381.52",Manutenção e reparos,,
+Carga Geral E,2023-01-18,Los Angeles,Taxas Portuárias,"4,674.82",Taxas portuárias em Los Angeles,,
+Carga Geral A,2023-01-19,Xangai,Combustível,"20,230.62",Combustível em Xangai,,
+Carga Geral A,2023-01-19,Singapura,Manutenção,"3,700.72",Manutenção e reparos,,
+Carga Geral A,2023-01-19,Los Angeles,Taxas Portuárias,"5,244.13",Taxas portuárias em Los Angeles,,
+Carga Geral B,2023-01-19,Hamburgo,Carregamento/Descarga,"32,415.20",Carregamento/descarga de 40519 m³ de Carga Solta,Carga Solta,40519.0
+Carga Geral B,2023-01-19,Singapura,Manutenção,"3,211.57",Manutenção e reparos,,
+Carga Geral B,2023-01-19,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-19,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-19,Hamburgo,Carregamento/Descarga,"7,066.80",Carregamento/descarga de 5889 m³ de Contêineres,Contêineres,5889.0
+Carga Geral C,2023-01-19,Roterdã,Combustível,"22,936.03",Combustível em Roterdã,,
+Carga Geral C,2023-01-19,Hamburgo,Taxas Portuárias,"3,381.16",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-19,Los Angeles,Carregamento/Descarga,"46,522.80",Carregamento/descarga de 38769 m³ de Contêineres,Contêineres,38769.0
+Carga Geral D,2023-01-19,Hamburgo,Carregamento/Descarga,"43,644.00",Carregamento/descarga de 36370 m³ de Contêineres,Contêineres,36370.0
+Carga Geral D,2023-01-19,Los Angeles,Combustível,"19,150.78",Combustível em Los Angeles,,
+Carga Geral D,2023-01-19,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-19,Singapura,Taxas Portuárias,"5,608.60",Taxas portuárias em Singapura,,
+Carga Geral D,2023-01-19,Xangai,Combustível,"9,005.43",Combustível em Xangai,,
+Carga Geral E,2023-01-19,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-19,Los Angeles,Taxas Portuárias,"6,813.75",Taxas portuárias em Los Angeles,,
+Carga Geral E,2023-01-19,Xangai,Combustível,"11,623.41",Combustível em Xangai,,
+Carga Geral A,2023-01-20,Hamburgo,Combustível,"10,876.29",Combustível em Hamburgo,,
+Carga Geral B,2023-01-20,Singapura,Carregamento/Descarga,"33,059.20",Carregamento/descarga de 41324 m³ de Carga Solta,Carga Solta,41324.0
+Carga Geral B,2023-01-20,Los Angeles,Combustível,"24,145.34",Combustível em Los Angeles,,
+Carga Geral B,2023-01-20,Los Angeles,Combustível,"20,135.93",Combustível em Los Angeles,,
+Carga Geral C,2023-01-20,Xangai,Combustível,"9,219.55",Combustível em Xangai,,
+Carga Geral C,2023-01-20,Hamburgo,Manutenção,"1,175.63",Manutenção e reparos,,
+Carga Geral C,2023-01-20,Xangai,Manutenção,"1,384.61",Manutenção e reparos,,
+Carga Geral C,2023-01-20,Hamburgo,Taxas Portuárias,"3,718.08",Taxas portuárias em Hamburgo,,
+Carga Geral C,2023-01-20,Xangai,Manutenção,"2,229.54",Manutenção e reparos,,
+Carga Geral D,2023-01-20,Singapura,Taxas Portuárias,"6,666.79",Taxas portuárias em Singapura,,
+Carga Geral D,2023-01-20,Hamburgo,Manutenção,"1,248.15",Manutenção e reparos,,
+Carga Geral D,2023-01-20,Singapura,Manutenção,"3,556.08",Manutenção e reparos,,
+Carga Geral D,2023-01-20,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-20,Roterdã,Combustível,"10,753.26",Combustível em Roterdã,,
+Carga Geral E,2023-01-20,Xangai,Carregamento/Descarga,"27,608.00",Carregamento/descarga de 27608 m³ de Outros,Outros,27608.0
+Carga Geral E,2023-01-20,Hamburgo,Taxas Portuárias,"5,632.59",Taxas portuárias em Hamburgo,,
+Carga Geral E,2023-01-20,Roterdã,Carregamento/Descarga,"25,461.00",Carregamento/descarga de 25461 m³ de Outros,Outros,25461.0
+Carga Geral E,2023-01-20,Roterdã,Combustível,"11,811.41",Combustível em Roterdã,,
+Carga Geral E,2023-01-20,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-21,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-21,Los Angeles,Manutenção,"2,760.52",Manutenção e reparos,,
+Carga Geral C,2023-01-21,Los Angeles,Combustível,"17,794.45",Combustível em Los Angeles,,
+Carga Geral C,2023-01-21,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-21,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-21,Xangai,Taxas Portuárias,"2,333.10",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-21,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-21,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-21,Xangai,Taxas Portuárias,"4,635.85",Taxas portuárias em Xangai,,
+Carga Geral D,2023-01-21,Los Angeles,Combustível,"15,248.17",Combustível em Los Angeles,,
+Carga Geral D,2023-01-21,Hamburgo,Manutenção,"1,995.18",Manutenção e reparos,,
+Carga Geral E,2023-01-21,Hamburgo,Manutenção,"3,263.63",Manutenção e reparos,,
+Carga Geral E,2023-01-21,Xangai,Manutenção,"2,819.92",Manutenção e reparos,,
+Carga Geral E,2023-01-21,Los Angeles,Manutenção,"1,863.02",Manutenção e reparos,,
+Carga Geral E,2023-01-21,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-22,Los Angeles,Combustível,"21,966.10",Combustível em Los Angeles,,
+Carga Geral A,2023-01-22,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-22,Xangai,Carregamento/Descarga,"19,551.00",Carregamento/descarga de 19551 m³ de Outros,Outros,19551.0
+Carga Geral B,2023-01-22,Los Angeles,Manutenção,"3,563.73",Manutenção e reparos,,
+Carga Geral B,2023-01-22,Xangai,Combustível,"25,928.01",Combustível em Xangai,,
+Carga Geral B,2023-01-22,Hamburgo,Taxas Portuárias,"3,628.03",Taxas portuárias em Hamburgo,,
+Carga Geral B,2023-01-22,Roterdã,Taxas Portuárias,"5,698.98",Taxas portuárias em Roterdã,,
+Carga Geral C,2023-01-22,Xangai,Taxas Portuárias,"4,089.02",Taxas portuárias em Xangai,,
+Carga Geral D,2023-01-22,Roterdã,Carregamento/Descarga,"14,172.50",Carregamento/descarga de 28345 m³ de Granéis Sólidos,Granéis Sólidos,28345.0
+Carga Geral E,2023-01-22,Los Angeles,Combustível,"18,394.79",Combustível em Los Angeles,,
+Carga Geral E,2023-01-22,Singapura,Manutenção,"2,831.74",Manutenção e reparos,,
+Carga Geral A,2023-01-23,Los Angeles,Combustível,"25,743.33",Combustível em Los Angeles,,
+Carga Geral A,2023-01-23,Xangai,Taxas Portuárias,"4,834.56",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-23,Xangai,Manutenção,"1,082.04",Manutenção e reparos,,
+Carga Geral A,2023-01-23,Singapura,Taxas Portuárias,"4,179.15",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-23,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-23,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-23,Xangai,Taxas Portuárias,"2,099.32",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-23,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-23,Roterdã,Manutenção,"2,013.22",Manutenção e reparos,,
+Carga Geral D,2023-01-23,Roterdã,Manutenção,"3,372.48",Manutenção e reparos,,
+Carga Geral D,2023-01-23,Roterdã,Combustível,"24,901.35",Combustível em Roterdã,,
+Carga Geral D,2023-01-23,Roterdã,Carregamento/Descarga,"18,697.50",Carregamento/descarga de 12465 m³ de Veículos,Veículos,12465.0
+Carga Geral D,2023-01-23,Los Angeles,Carregamento/Descarga,"22,398.00",Carregamento/descarga de 18665 m³ de Contêineres,Contêineres,18665.0
+Carga Geral D,2023-01-23,Singapura,Manutenção,"3,089.28",Manutenção e reparos,,
+Carga Geral E,2023-01-23,Los Angeles,Manutenção,"2,798.64",Manutenção e reparos,,
+Carga Geral A,2023-01-24,Hamburgo,Manutenção,"1,468.13",Manutenção e reparos,,
+Carga Geral A,2023-01-24,Hamburgo,Manutenção,"1,248.96",Manutenção e reparos,,
+Carga Geral A,2023-01-24,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-24,Hamburgo,Taxas Portuárias,"2,280.29",Taxas portuárias em Hamburgo,,
+Carga Geral A,2023-01-24,Hamburgo,Taxas Portuárias,"2,868.93",Taxas portuárias em Hamburgo,,
+Carga Geral B,2023-01-24,Xangai,Taxas Portuárias,"5,268.48",Taxas portuárias em Xangai,,
+Carga Geral B,2023-01-24,Hamburgo,Combustível,"22,482.18",Combustível em Hamburgo,,
+Carga Geral B,2023-01-24,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-24,Los Angeles,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-24,Los Angeles,Carregamento/Descarga,"9,657.00",Carregamento/descarga de 6438 m³ de Veículos,Veículos,6438.0
+Carga Geral E,2023-01-24,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-25,Roterdã,Carregamento/Descarga,"31,740.00",Carregamento/descarga de 39675 m³ de Carga Solta,Carga Solta,39675.0
+Carga Geral A,2023-01-25,Hamburgo,Combustível,"12,948.40",Combustível em Hamburgo,,
+Carga Geral A,2023-01-25,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-25,Hamburgo,Combustível,"21,473.51",Combustível em Hamburgo,,
+Carga Geral A,2023-01-25,Hamburgo,Carregamento/Descarga,"33,204.00",Carregamento/descarga de 27670 m³ de Contêineres,Contêineres,27670.0
+Carga Geral B,2023-01-25,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-25,Roterdã,Combustível,"26,392.06",Combustível em Roterdã,,
+Carga Geral B,2023-01-25,Hamburgo,Manutenção,"3,856.42",Manutenção e reparos,,
+Carga Geral B,2023-01-25,Roterdã,Taxas Portuárias,"3,997.05",Taxas portuárias em Roterdã,,
+Carga Geral B,2023-01-25,Xangai,Manutenção,"1,235.14",Manutenção e reparos,,
+Carga Geral C,2023-01-25,Los Angeles,Taxas Portuárias,"4,784.47",Taxas portuárias em Los Angeles,,
+Carga Geral C,2023-01-25,Hamburgo,Combustível,"12,001.80",Combustível em Hamburgo,,
+Carga Geral C,2023-01-25,Los Angeles,Combustível,"8,131.35",Combustível em Los Angeles,,
+Carga Geral D,2023-01-25,Xangai,Taxas Portuárias,"6,746.25",Taxas portuárias em Xangai,,
+Carga Geral E,2023-01-25,Los Angeles,Combustível,"16,716.13",Combustível em Los Angeles,,
+Carga Geral E,2023-01-25,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-26,Hamburgo,Manutenção,"3,647.80",Manutenção e reparos,,
+Carga Geral A,2023-01-26,Singapura,Carregamento/Descarga,"24,818.40",Carregamento/descarga de 20682 m³ de Contêineres,Contêineres,20682.0
+Carga Geral A,2023-01-26,Hamburgo,Carregamento/Descarga,"20,170.00",Carregamento/descarga de 40340 m³ de Granéis Sólidos,Granéis Sólidos,40340.0
+Carga Geral A,2023-01-26,Singapura,Combustível,"23,499.05",Combustível em Singapura,,
+Carga Geral A,2023-01-26,Los Angeles,Manutenção,"3,215.46",Manutenção e reparos,,
+Carga Geral B,2023-01-26,Xangai,Carregamento/Descarga,"3,349.00",Carregamento/descarga de 6698 m³ de Granéis Sólidos,Granéis Sólidos,6698.0
+Carga Geral C,2023-01-26,Xangai,Carregamento/Descarga,"19,067.20",Carregamento/descarga de 23834 m³ de Carga Solta,Carga Solta,23834.0
+Carga Geral C,2023-01-26,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-26,Xangai,Taxas Portuárias,"3,450.21",Taxas portuárias em Xangai,,
+Carga Geral C,2023-01-26,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-26,Roterdã,Taxas Portuárias,"4,901.70",Taxas portuárias em Roterdã,,
+Carga Geral D,2023-01-26,Los Angeles,Manutenção,"3,666.85",Manutenção e reparos,,
+Carga Geral D,2023-01-26,Hamburgo,Taxas Portuárias,"2,830.70",Taxas portuárias em Hamburgo,,
+Carga Geral D,2023-01-26,Singapura,Combustível,"9,976.21",Combustível em Singapura,,
+Carga Geral D,2023-01-26,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-26,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-26,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-27,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-27,Singapura,Taxas Portuárias,"5,154.82",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-27,Hamburgo,Taxas Portuárias,"6,725.91",Taxas portuárias em Hamburgo,,
+Carga Geral A,2023-01-27,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-27,Hamburgo,Taxas Portuárias,"5,105.11",Taxas portuárias em Hamburgo,,
+Carga Geral B,2023-01-27,Los Angeles,Combustível,"26,279.68",Combustível em Los Angeles,,
+Carga Geral B,2023-01-27,Hamburgo,Combustível,"17,433.38",Combustível em Hamburgo,,
+Carga Geral B,2023-01-27,Hamburgo,Combustível,"21,005.09",Combustível em Hamburgo,,
+Carga Geral C,2023-01-27,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-27,Roterdã,Combustível,"8,261.99",Combustível em Roterdã,,
+Carga Geral E,2023-01-27,Xangai,Combustível,"16,324.53",Combustível em Xangai,,
+Carga Geral E,2023-01-27,Xangai,Manutenção,"4,025.30",Manutenção e reparos,,
+Carga Geral E,2023-01-27,Xangai,Taxas Portuárias,"3,908.07",Taxas portuárias em Xangai,,
+Carga Geral E,2023-01-27,Singapura,Carregamento/Descarga,"39,565.60",Carregamento/descarga de 49457 m³ de Carga Solta,Carga Solta,49457.0
+Carga Geral E,2023-01-27,Los Angeles,Carregamento/Descarga,"44,412.00",Carregamento/descarga de 44412 m³ de Outros,Outros,44412.0
+Carga Geral A,2023-01-28,Hamburgo,Carregamento/Descarga,"49,058.00",Carregamento/descarga de 49058 m³ de Outros,Outros,49058.0
+Carga Geral A,2023-01-28,Xangai,Carregamento/Descarga,"17,168.00",Carregamento/descarga de 17168 m³ de Outros,Outros,17168.0
+Carga Geral A,2023-01-28,Xangai,Taxas Portuárias,"3,537.94",Taxas portuárias em Xangai,,
+Carga Geral B,2023-01-28,Roterdã,Manutenção,"2,198.13",Manutenção e reparos,,
+Carga Geral B,2023-01-28,Roterdã,Combustível,"20,283.20",Combustível em Roterdã,,
+Carga Geral B,2023-01-28,Xangai,Carregamento/Descarga,"22,796.00",Carregamento/descarga de 45592 m³ de Granéis Sólidos,Granéis Sólidos,45592.0
+Carga Geral B,2023-01-28,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral B,2023-01-28,Hamburgo,Carregamento/Descarga,"43,448.40",Carregamento/descarga de 36207 m³ de Contêineres,Contêineres,36207.0
+Carga Geral C,2023-01-28,Singapura,Manutenção,"2,285.74",Manutenção e reparos,,
+Carga Geral D,2023-01-28,Roterdã,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-28,Los Angeles,Manutenção,"3,907.64",Manutenção e reparos,,
+Carga Geral D,2023-01-28,Roterdã,Manutenção,"3,000.07",Manutenção e reparos,,
+Carga Geral D,2023-01-28,Hamburgo,Combustível,"12,241.83",Combustível em Hamburgo,,
+Carga Geral E,2023-01-28,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-28,Los Angeles,Carregamento/Descarga,"29,890.40",Carregamento/descarga de 37363 m³ de Carga Solta,Carga Solta,37363.0
+Carga Geral E,2023-01-28,Singapura,Carregamento/Descarga,"40,950.00",Carregamento/descarga de 34125 m³ de Contêineres,Contêineres,34125.0
+Carga Geral A,2023-01-29,Singapura,Carregamento/Descarga,"21,550.80",Carregamento/descarga de 17959 m³ de Contêineres,Contêineres,17959.0
+Carga Geral A,2023-01-29,Xangai,Taxas Portuárias,"3,066.60",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-29,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-29,Singapura,Taxas Portuárias,"6,201.68",Taxas portuárias em Singapura,,
+Carga Geral B,2023-01-29,Hamburgo,Manutenção,"4,452.55",Manutenção e reparos,,
+Carga Geral B,2023-01-29,Hamburgo,Taxas Portuárias,"3,918.03",Taxas portuárias em Hamburgo,,
+Carga Geral B,2023-01-29,Singapura,Combustível,"12,196.97",Combustível em Singapura,,
+Carga Geral C,2023-01-29,Los Angeles,Taxas Portuárias,"3,467.25",Taxas portuárias em Los Angeles,,
+Carga Geral C,2023-01-29,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral C,2023-01-29,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-29,Roterdã,Carregamento/Descarga,"28,320.00",Carregamento/descarga de 18880 m³ de Veículos,Veículos,18880.0
+Carga Geral D,2023-01-29,Hamburgo,Taxas Portuárias,"2,821.79",Taxas portuárias em Hamburgo,,
+Carga Geral D,2023-01-29,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-29,Xangai,Combustível,"27,681.93",Combustível em Xangai,,
+Carga Geral E,2023-01-29,Xangai,Manutenção,"2,253.71",Manutenção e reparos,,
+Carga Geral E,2023-01-29,Roterdã,Manutenção,"4,327.24",Manutenção e reparos,,
+Carga Geral A,2023-01-30,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral A,2023-01-30,Singapura,Taxas Portuárias,"4,374.07",Taxas portuárias em Singapura,,
+Carga Geral A,2023-01-30,Xangai,Taxas Portuárias,"6,029.88",Taxas portuárias em Xangai,,
+Carga Geral A,2023-01-30,Roterdã,Manutenção,"3,095.28",Manutenção e reparos,,
+Carga Geral B,2023-01-30,Los Angeles,Taxas Portuárias,"4,179.73",Taxas portuárias em Los Angeles,,
+Carga Geral C,2023-01-30,Singapura,Carregamento/Descarga,"34,235.20",Carregamento/descarga de 42794 m³ de Carga Solta,Carga Solta,42794.0
+Carga Geral C,2023-01-30,Roterdã,Combustível,"25,266.53",Combustível em Roterdã,,
+Carga Geral D,2023-01-30,Xangai,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-30,Roterdã,Manutenção,"3,154.30",Manutenção e reparos,,
+Carga Geral D,2023-01-30,Roterdã,Carregamento/Descarga,"22,173.60",Carregamento/descarga de 27717 m³ de Carga Solta,Carga Solta,27717.0
+Carga Geral D,2023-01-30,Hamburgo,Seguros,"1,900.00",Seguro diário,,
+Carga Geral D,2023-01-30,Singapura,Taxas Portuárias,"6,372.71",Taxas portuárias em Singapura,,
+Carga Geral E,2023-01-30,Xangai,Manutenção,"4,457.51",Manutenção e reparos,,
+Carga Geral E,2023-01-30,Singapura,Seguros,"1,900.00",Seguro diário,,
+Carga Geral E,2023-01-30,Roterdã,Combustível,"27,295.34",Combustível em Roterdã,,
+Carga Geral E,2023-01-30,Hamburgo,Taxas Portuárias,"4,870.22",Taxas portuárias em Hamburgo,,
