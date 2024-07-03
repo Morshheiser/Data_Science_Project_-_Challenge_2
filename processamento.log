@@ -1,0 +1,11 @@
+2024-07-02 21:33:31,563 - ERROR - O arquivo navio_carga_geral.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:33:31,567 - ERROR - O arquivo navio_frigorifico.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:33:31,570 - ERROR - O arquivo navio_graneleiro.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:33:31,573 - ERROR - O arquivo navio_porta_conteiner.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:33:31,577 - ERROR - O arquivo navio_ro_ro.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,419 - ERROR - O arquivo navio_carga_geral.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,426 - ERROR - O arquivo navio_frigorifico.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,429 - ERROR - O arquivo navio_graneleiro.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,435 - ERROR - O arquivo navio_porta_conteiner.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,439 - ERROR - O arquivo navio_ro_ro.csv não possui a coluna "id_log". Verifique o arquivo.
+2024-07-02 21:34:43,439 - WARNING - Nenhum dado encontrado para processar.
