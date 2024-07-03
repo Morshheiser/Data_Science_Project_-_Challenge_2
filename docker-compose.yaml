@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: postgres:14.4
+    container_name: postgres-compose
+    user: root
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: 12345
+    volumes:
+      - ./data:/home/postgres/pgdata/data
