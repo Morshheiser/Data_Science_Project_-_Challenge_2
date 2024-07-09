@@ -1,0 +1,422 @@
+Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Número de Contêineres,Tipo de Contêineres
+Navio A,2023-01-01,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-01,Los Angeles,Taxas Portuárias,"3,968.74",Taxas portuárias em Los Angeles,,
+Navio A,2023-01-01,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-01,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-01,Singapura,Taxas Portuárias,"4,160.89",Taxas portuárias em Singapura,,
+Navio C,2023-01-01,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-01,Roterdã,Taxas Portuárias,"3,343.71",Taxas portuárias em Roterdã,,
+Navio C,2023-01-01,Xangai,Taxas Portuárias,"1,981.75",Taxas portuárias em Xangai,,
+Navio D,2023-01-01,Xangai,Combustível,"11,297.45",Combustível em Xangai,,
+Navio D,2023-01-01,Hamburgo,Taxas Portuárias,"1,324.24",Taxas portuárias em Hamburgo,,
+Navio E,2023-01-01,Singapura,Combustível,"9,006.37",Combustível em Singapura,,
+Navio E,2023-01-01,Los Angeles,Combustível,"16,282.42",Combustível em Los Angeles,,
+Navio E,2023-01-01,Xangai,Taxas Portuárias,"4,097.05",Taxas portuárias em Xangai,,
+Navio E,2023-01-01,Singapura,Manutenção,"1,730.16",Manutenção e reparos,,
+Navio A,2023-01-02,Singapura,Taxas Portuárias,"1,299.97",Taxas portuárias em Singapura,,
+Navio A,2023-01-02,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-02,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-02,Singapura,Manutenção,"2,807.34",Manutenção e reparos,,
+Navio B,2023-01-02,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-02,Hamburgo,Manuseio de Contêineres,"72,950.00",Manuseio de 1459 contêineres (20'),1459.0,20'
+Navio C,2023-01-02,Los Angeles,Taxas Portuárias,"1,534.01",Taxas portuárias em Los Angeles,,
+Navio C,2023-01-02,Los Angeles,Combustível,"13,016.29",Combustível em Los Angeles,,
+Navio C,2023-01-02,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-02,Xangai,Taxas Portuárias,"3,060.72",Taxas portuárias em Xangai,,
+Navio C,2023-01-02,Roterdã,Manutenção,"1,544.28",Manutenção e reparos,,
+Navio D,2023-01-02,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-02,Singapura,Combustível,"17,844.88",Combustível em Singapura,,
+Navio E,2023-01-02,Roterdã,Combustível,"10,324.63",Combustível em Roterdã,,
+Navio E,2023-01-02,Los Angeles,Combustível,"5,911.08",Combustível em Los Angeles,,
+Navio E,2023-01-02,Xangai,Manutenção,"2,119.00",Manutenção e reparos,,
+Navio E,2023-01-02,Hamburgo,Combustível,"8,427.41",Combustível em Hamburgo,,
+Navio A,2023-01-03,Xangai,Taxas Portuárias,"4,206.54",Taxas portuárias em Xangai,,
+Navio A,2023-01-03,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-03,Los Angeles,Combustível,"16,911.18",Combustível em Los Angeles,,
+Navio A,2023-01-03,Hamburgo,Taxas Portuárias,"4,892.08",Taxas portuárias em Hamburgo,,
+Navio B,2023-01-03,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-03,Xangai,Combustível,"15,780.45",Combustível em Xangai,,
+Navio B,2023-01-03,Los Angeles,Combustível,"12,539.08",Combustível em Los Angeles,,
+Navio C,2023-01-03,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-03,Hamburgo,Manuseio de Contêineres,"71,100.00",Manuseio de 1422 contêineres (20'),1422.0,20'
+Navio C,2023-01-03,Los Angeles,Manuseio de Contêineres,"91,950.00",Manuseio de 1839 contêineres (20'),1839.0,20'
+Navio C,2023-01-03,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-03,Singapura,Combustível,"12,475.82",Combustível em Singapura,,
+Navio D,2023-01-03,Los Angeles,Taxas Portuárias,"4,554.38",Taxas portuárias em Los Angeles,,
+Navio D,2023-01-03,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-03,Singapura,Combustível,"12,438.83",Combustível em Singapura,,
+Navio D,2023-01-03,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-03,Los Angeles,Manuseio de Contêineres,"153,760.00",Manuseio de 1922 contêineres (40'),1922.0,40'
+Navio E,2023-01-03,Los Angeles,Combustível,"8,549.28",Combustível em Los Angeles,,
+Navio A,2023-01-04,Los Angeles,Manutenção,"2,104.67",Manutenção e reparos,,
+Navio A,2023-01-04,Singapura,Combustível,"17,065.55",Combustível em Singapura,,
+Navio A,2023-01-04,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-04,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-04,Xangai,Taxas Portuárias,"2,090.34",Taxas portuárias em Xangai,,
+Navio B,2023-01-04,Singapura,Taxas Portuárias,"4,950.87",Taxas portuárias em Singapura,,
+Navio B,2023-01-04,Hamburgo,Manutenção,"2,736.62",Manutenção e reparos,,
+Navio B,2023-01-04,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-04,Roterdã,Taxas Portuárias,"4,632.76",Taxas portuárias em Roterdã,,
+Navio C,2023-01-04,Hamburgo,Manuseio de Contêineres,"109,840.00",Manuseio de 1373 contêineres (40'),1373.0,40'
+Navio C,2023-01-04,Roterdã,Taxas Portuárias,"1,580.30",Taxas portuárias em Roterdã,,
+Navio D,2023-01-04,Los Angeles,Manuseio de Contêineres,"97,700.00",Manuseio de 1954 contêineres (20'),1954.0,20'
+Navio D,2023-01-04,Singapura,Manuseio de Contêineres,"135,600.00",Manuseio de 1130 contêineres (Reefer),1130.0,Reefer
+Navio D,2023-01-04,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-04,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-04,Roterdã,Combustível,"16,509.19",Combustível em Roterdã,,
+Navio E,2023-01-04,Los Angeles,Combustível,"10,015.84",Combustível em Los Angeles,,
+Navio E,2023-01-04,Los Angeles,Combustível,"6,016.45",Combustível em Los Angeles,,
+Navio E,2023-01-04,Roterdã,Manuseio de Contêineres,"78,120.00",Manuseio de 651 contêineres (Reefer),651.0,Reefer
+Navio A,2023-01-05,Los Angeles,Taxas Portuárias,"2,209.18",Taxas portuárias em Los Angeles,,
+Navio B,2023-01-05,Roterdã,Taxas Portuárias,"4,802.16",Taxas portuárias em Roterdã,,
+Navio B,2023-01-05,Los Angeles,Combustível,"18,225.16",Combustível em Los Angeles,,
+Navio B,2023-01-05,Xangai,Combustível,"17,636.71",Combustível em Xangai,,
+Navio B,2023-01-05,Singapura,Manuseio de Contêineres,"28,750.00",Manuseio de 575 contêineres (20'),575.0,20'
+Navio B,2023-01-05,Hamburgo,Manuseio de Contêineres,"56,050.00",Manuseio de 1121 contêineres (20'),1121.0,20'
+Navio C,2023-01-05,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-05,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-05,Los Angeles,Taxas Portuárias,"1,386.47",Taxas portuárias em Los Angeles,,
+Navio D,2023-01-05,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-05,Hamburgo,Manutenção,"2,821.04",Manutenção e reparos,,
+Navio D,2023-01-05,Roterdã,Manuseio de Contêineres,"80,000.00",Manuseio de 1600 contêineres (20'),1600.0,20'
+Navio E,2023-01-05,Singapura,Combustível,"14,948.79",Combustível em Singapura,,
+Navio E,2023-01-05,Hamburgo,Combustível,"10,980.07",Combustível em Hamburgo,,
+Navio E,2023-01-05,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-05,Hamburgo,Taxas Portuárias,"4,454.00",Taxas portuárias em Hamburgo,,
+Navio E,2023-01-05,Singapura,Manuseio de Contêineres,"158,320.00",Manuseio de 1979 contêineres (40'),1979.0,40'
+Navio A,2023-01-06,Hamburgo,Combustível,"11,755.72",Combustível em Hamburgo,,
+Navio B,2023-01-06,Los Angeles,Taxas Portuárias,"3,692.14",Taxas portuárias em Los Angeles,,
+Navio B,2023-01-06,Singapura,Combustível,"9,887.78",Combustível em Singapura,,
+Navio B,2023-01-06,Xangai,Manutenção,"1,062.25",Manutenção e reparos,,
+Navio C,2023-01-06,Singapura,Manuseio de Contêineres,"155,760.00",Manuseio de 1298 contêineres (Reefer),1298.0,Reefer
+Navio C,2023-01-06,Xangai,Manutenção,933.75,Manutenção e reparos,,
+Navio C,2023-01-06,Roterdã,Manuseio de Contêineres,"31,300.00",Manuseio de 626 contêineres (20'),626.0,20'
+Navio C,2023-01-06,Hamburgo,Combustível,"10,910.23",Combustível em Hamburgo,,
+Navio D,2023-01-06,Singapura,Manutenção,"1,503.27",Manutenção e reparos,,
+Navio D,2023-01-06,Roterdã,Combustível,"11,710.13",Combustível em Roterdã,,
+Navio E,2023-01-06,Hamburgo,Combustível,"19,136.81",Combustível em Hamburgo,,
+Navio A,2023-01-07,Singapura,Combustível,"18,621.95",Combustível em Singapura,,
+Navio A,2023-01-07,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-07,Singapura,Manuseio de Contêineres,"76,800.00",Manuseio de 1536 contêineres (20'),1536.0,20'
+Navio B,2023-01-07,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-07,Los Angeles,Combustível,"17,255.62",Combustível em Los Angeles,,
+Navio C,2023-01-07,Hamburgo,Manutenção,"2,849.18",Manutenção e reparos,,
+Navio D,2023-01-07,Xangai,Combustível,"8,048.53",Combustível em Xangai,,
+Navio D,2023-01-07,Hamburgo,Manuseio de Contêineres,"128,480.00",Manuseio de 1606 contêineres (40'),1606.0,40'
+Navio E,2023-01-07,Singapura,Manuseio de Contêineres,"164,880.00",Manuseio de 1374 contêineres (Reefer),1374.0,Reefer
+Navio E,2023-01-07,Hamburgo,Taxas Portuárias,"2,164.95",Taxas portuárias em Hamburgo,,
+Navio A,2023-01-08,Roterdã,Manutenção,"1,992.54",Manutenção e reparos,,
+Navio A,2023-01-08,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-08,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-08,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-08,Xangai,Combustível,"14,363.59",Combustível em Xangai,,
+Navio B,2023-01-08,Singapura,Manuseio de Contêineres,"123,000.00",Manuseio de 1025 contêineres (Reefer),1025.0,Reefer
+Navio C,2023-01-08,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-08,Hamburgo,Combustível,"14,244.10",Combustível em Hamburgo,,
+Navio D,2023-01-08,Singapura,Taxas Portuárias,"2,172.55",Taxas portuárias em Singapura,,
+Navio D,2023-01-08,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-08,Hamburgo,Combustível,"6,598.89",Combustível em Hamburgo,,
+Navio E,2023-01-08,Singapura,Combustível,"17,787.17",Combustível em Singapura,,
+Navio E,2023-01-08,Xangai,Manuseio de Contêineres,"65,350.00",Manuseio de 1307 contêineres (20'),1307.0,20'
+Navio E,2023-01-08,Roterdã,Manutenção,768.76,Manutenção e reparos,,
+Navio A,2023-01-09,Hamburgo,Manutenção,807.63,Manutenção e reparos,,
+Navio A,2023-01-09,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-09,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-09,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-09,Singapura,Taxas Portuárias,"4,120.37",Taxas portuárias em Singapura,,
+Navio B,2023-01-09,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-09,Singapura,Manutenção,"1,202.17",Manutenção e reparos,,
+Navio C,2023-01-09,Hamburgo,Combustível,"17,963.71",Combustível em Hamburgo,,
+Navio C,2023-01-09,Roterdã,Manuseio de Contêineres,"62,050.00",Manuseio de 1241 contêineres (20'),1241.0,20'
+Navio C,2023-01-09,Xangai,Manutenção,"2,448.18",Manutenção e reparos,,
+Navio C,2023-01-09,Xangai,Manuseio de Contêineres,"159,040.00",Manuseio de 1988 contêineres (40'),1988.0,40'
+Navio D,2023-01-09,Singapura,Manuseio de Contêineres,"77,700.00",Manuseio de 1554 contêineres (20'),1554.0,20'
+Navio E,2023-01-09,Singapura,Taxas Portuárias,"1,691.33",Taxas portuárias em Singapura,,
+Navio E,2023-01-09,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-10,Hamburgo,Combustível,"19,412.04",Combustível em Hamburgo,,
+Navio A,2023-01-10,Roterdã,Taxas Portuárias,"4,508.80",Taxas portuárias em Roterdã,,
+Navio A,2023-01-10,Roterdã,Manutenção,"2,464.19",Manutenção e reparos,,
+Navio A,2023-01-10,Singapura,Manuseio de Contêineres,"156,120.00",Manuseio de 1301 contêineres (Reefer),1301.0,Reefer
+Navio B,2023-01-10,Xangai,Manuseio de Contêineres,"138,720.00",Manuseio de 1156 contêineres (Reefer),1156.0,Reefer
+Navio C,2023-01-10,Los Angeles,Combustível,"19,018.19",Combustível em Los Angeles,,
+Navio D,2023-01-10,Singapura,Combustível,"11,200.27",Combustível em Singapura,,
+Navio D,2023-01-10,Hamburgo,Manutenção,"2,027.56",Manutenção e reparos,,
+Navio D,2023-01-10,Singapura,Manutenção,612.48,Manutenção e reparos,,
+Navio D,2023-01-10,Singapura,Taxas Portuárias,"4,122.83",Taxas portuárias em Singapura,,
+Navio D,2023-01-10,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-10,Roterdã,Manuseio de Contêineres,"79,050.00",Manuseio de 1581 contêineres (20'),1581.0,20'
+Navio E,2023-01-10,Xangai,Combustível,"14,435.93",Combustível em Xangai,,
+Navio E,2023-01-10,Los Angeles,Manuseio de Contêineres,"44,960.00",Manuseio de 562 contêineres (40'),562.0,40'
+Navio E,2023-01-10,Roterdã,Taxas Portuárias,"4,720.91",Taxas portuárias em Roterdã,,
+Navio A,2023-01-11,Hamburgo,Manuseio de Contêineres,"146,080.00",Manuseio de 1826 contêineres (40'),1826.0,40'
+Navio B,2023-01-11,Xangai,Manuseio de Contêineres,"135,360.00",Manuseio de 1692 contêineres (40'),1692.0,40'
+Navio B,2023-01-11,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-11,Los Angeles,Taxas Portuárias,"4,259.76",Taxas portuárias em Los Angeles,,
+Navio C,2023-01-11,Hamburgo,Manuseio de Contêineres,"48,000.00",Manuseio de 600 contêineres (40'),600.0,40'
+Navio C,2023-01-11,Hamburgo,Taxas Portuárias,"1,734.32",Taxas portuárias em Hamburgo,,
+Navio C,2023-01-11,Singapura,Manuseio de Contêineres,"38,800.00",Manuseio de 776 contêineres (20'),776.0,20'
+Navio D,2023-01-11,Xangai,Manuseio de Contêineres,"68,400.00",Manuseio de 570 contêineres (Reefer),570.0,Reefer
+Navio D,2023-01-11,Roterdã,Manuseio de Contêineres,"75,500.00",Manuseio de 1510 contêineres (20'),1510.0,20'
+Navio E,2023-01-11,Hamburgo,Taxas Portuárias,"1,671.30",Taxas portuárias em Hamburgo,,
+Navio A,2023-01-12,Los Angeles,Manuseio de Contêineres,"66,240.00",Manuseio de 828 contêineres (40'),828.0,40'
+Navio A,2023-01-12,Xangai,Manutenção,"1,615.10",Manutenção e reparos,,
+Navio A,2023-01-12,Roterdã,Taxas Portuárias,"2,167.02",Taxas portuárias em Roterdã,,
+Navio A,2023-01-12,Los Angeles,Combustível,"9,137.77",Combustível em Los Angeles,,
+Navio A,2023-01-12,Roterdã,Taxas Portuárias,"2,235.21",Taxas portuárias em Roterdã,,
+Navio B,2023-01-12,Xangai,Combustível,"9,304.61",Combustível em Xangai,,
+Navio B,2023-01-12,Los Angeles,Manutenção,"1,310.46",Manutenção e reparos,,
+Navio C,2023-01-12,Roterdã,Combustível,"15,768.63",Combustível em Roterdã,,
+Navio C,2023-01-12,Roterdã,Manutenção,"1,993.49",Manutenção e reparos,,
+Navio C,2023-01-12,Roterdã,Taxas Portuárias,"2,623.72",Taxas portuárias em Roterdã,,
+Navio D,2023-01-12,Xangai,Taxas Portuárias,"2,019.38",Taxas portuárias em Xangai,,
+Navio E,2023-01-12,Roterdã,Manutenção,"2,905.53",Manutenção e reparos,,
+Navio E,2023-01-12,Roterdã,Manuseio de Contêineres,"156,320.00",Manuseio de 1954 contêineres (40'),1954.0,40'
+Navio E,2023-01-12,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-13,Roterdã,Manuseio de Contêineres,"71,750.00",Manuseio de 1435 contêineres (20'),1435.0,20'
+Navio A,2023-01-13,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-13,Roterdã,Taxas Portuárias,"1,160.52",Taxas portuárias em Roterdã,,
+Navio A,2023-01-13,Singapura,Manuseio de Contêineres,"116,400.00",Manuseio de 1455 contêineres (40'),1455.0,40'
+Navio A,2023-01-13,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-13,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-13,Hamburgo,Combustível,"12,068.25",Combustível em Hamburgo,,
+Navio B,2023-01-13,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-13,Los Angeles,Combustível,"17,829.18",Combustível em Los Angeles,,
+Navio C,2023-01-13,Singapura,Combustível,"11,519.56",Combustível em Singapura,,
+Navio C,2023-01-13,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-13,Hamburgo,Manuseio de Contêineres,"183,840.00",Manuseio de 1532 contêineres (Reefer),1532.0,Reefer
+Navio D,2023-01-13,Hamburgo,Combustível,"7,451.13",Combustível em Hamburgo,,
+Navio D,2023-01-13,Xangai,Manutenção,"1,337.45",Manutenção e reparos,,
+Navio E,2023-01-13,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-13,Los Angeles,Manutenção,794.07,Manutenção e reparos,,
+Navio A,2023-01-14,Xangai,Taxas Portuárias,"3,347.75",Taxas portuárias em Xangai,,
+Navio A,2023-01-14,Hamburgo,Manuseio de Contêineres,"136,880.00",Manuseio de 1711 contêineres (40'),1711.0,40'
+Navio B,2023-01-14,Hamburgo,Manutenção,"1,388.93",Manutenção e reparos,,
+Navio C,2023-01-14,Roterdã,Manuseio de Contêineres,"104,160.00",Manuseio de 868 contêineres (Reefer),868.0,Reefer
+Navio D,2023-01-14,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-14,Hamburgo,Manutenção,"1,482.64",Manutenção e reparos,,
+Navio D,2023-01-14,Los Angeles,Manutenção,"1,911.25",Manutenção e reparos,,
+Navio D,2023-01-14,Xangai,Taxas Portuárias,"4,011.47",Taxas portuárias em Xangai,,
+Navio E,2023-01-14,Hamburgo,Combustível,"17,516.99",Combustível em Hamburgo,,
+Navio E,2023-01-14,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-14,Roterdã,Taxas Portuárias,"2,446.96",Taxas portuárias em Roterdã,,
+Navio A,2023-01-15,Los Angeles,Taxas Portuárias,"1,186.31",Taxas portuárias em Los Angeles,,
+Navio A,2023-01-15,Los Angeles,Manuseio de Contêineres,"42,300.00",Manuseio de 846 contêineres (20'),846.0,20'
+Navio A,2023-01-15,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-15,Hamburgo,Manuseio de Contêineres,"84,600.00",Manuseio de 705 contêineres (Reefer),705.0,Reefer
+Navio C,2023-01-15,Singapura,Combustível,"18,163.16",Combustível em Singapura,,
+Navio C,2023-01-15,Xangai,Taxas Portuárias,"3,092.74",Taxas portuárias em Xangai,,
+Navio D,2023-01-15,Roterdã,Taxas Portuárias,"1,053.08",Taxas portuárias em Roterdã,,
+Navio D,2023-01-15,Singapura,Taxas Portuárias,"2,085.33",Taxas portuárias em Singapura,,
+Navio D,2023-01-15,Xangai,Manuseio de Contêineres,"47,450.00",Manuseio de 949 contêineres (20'),949.0,20'
+Navio D,2023-01-15,Singapura,Manutenção,"2,754.72",Manutenção e reparos,,
+Navio D,2023-01-15,Roterdã,Taxas Portuárias,"4,885.48",Taxas portuárias em Roterdã,,
+Navio E,2023-01-15,Hamburgo,Combustível,"9,255.22",Combustível em Hamburgo,,
+Navio E,2023-01-15,Los Angeles,Manutenção,"1,666.25",Manutenção e reparos,,
+Navio E,2023-01-15,Los Angeles,Manutenção,919.77,Manutenção e reparos,,
+Navio A,2023-01-16,Roterdã,Combustível,"11,383.97",Combustível em Roterdã,,
+Navio A,2023-01-16,Xangai,Combustível,"16,660.17",Combustível em Xangai,,
+Navio B,2023-01-16,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-16,Xangai,Combustível,"9,642.59",Combustível em Xangai,,
+Navio B,2023-01-16,Singapura,Taxas Portuárias,"1,848.61",Taxas portuárias em Singapura,,
+Navio B,2023-01-16,Los Angeles,Taxas Portuárias,"4,812.85",Taxas portuárias em Los Angeles,,
+Navio B,2023-01-16,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-16,Singapura,Combustível,"14,547.59",Combustível em Singapura,,
+Navio C,2023-01-16,Xangai,Manuseio de Contêineres,"136,560.00",Manuseio de 1138 contêineres (Reefer),1138.0,Reefer
+Navio C,2023-01-16,Hamburgo,Manuseio de Contêineres,"124,560.00",Manuseio de 1557 contêineres (40'),1557.0,40'
+Navio C,2023-01-16,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-16,Xangai,Taxas Portuárias,"3,413.38",Taxas portuárias em Xangai,,
+Navio D,2023-01-16,Hamburgo,Manuseio de Contêineres,"217,800.00",Manuseio de 1815 contêineres (Reefer),1815.0,Reefer
+Navio E,2023-01-16,Los Angeles,Manuseio de Contêineres,"105,920.00",Manuseio de 1324 contêineres (40'),1324.0,40'
+Navio E,2023-01-16,Los Angeles,Manuseio de Contêineres,"53,450.00",Manuseio de 1069 contêineres (20'),1069.0,20'
+Navio A,2023-01-17,Singapura,Manuseio de Contêineres,"50,080.00",Manuseio de 626 contêineres (40'),626.0,40'
+Navio B,2023-01-17,Hamburgo,Manutenção,"2,137.99",Manutenção e reparos,,
+Navio C,2023-01-17,Los Angeles,Manuseio de Contêineres,"64,320.00",Manuseio de 536 contêineres (Reefer),536.0,Reefer
+Navio C,2023-01-17,Roterdã,Taxas Portuárias,"3,901.28",Taxas portuárias em Roterdã,,
+Navio D,2023-01-17,Xangai,Combustível,"17,836.57",Combustível em Xangai,,
+Navio D,2023-01-17,Roterdã,Taxas Portuárias,"2,667.16",Taxas portuárias em Roterdã,,
+Navio D,2023-01-17,Roterdã,Taxas Portuárias,"2,249.24",Taxas portuárias em Roterdã,,
+Navio E,2023-01-17,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-17,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-17,Hamburgo,Taxas Portuárias,"3,760.06",Taxas portuárias em Hamburgo,,
+Navio E,2023-01-17,Los Angeles,Taxas Portuárias,"1,840.71",Taxas portuárias em Los Angeles,,
+Navio E,2023-01-17,Los Angeles,Manutenção,"2,631.45",Manutenção e reparos,,
+Navio A,2023-01-18,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-18,Xangai,Combustível,"18,627.86",Combustível em Xangai,,
+Navio B,2023-01-18,Xangai,Manutenção,"1,098.97",Manutenção e reparos,,
+Navio B,2023-01-18,Xangai,Taxas Portuárias,"1,093.21",Taxas portuárias em Xangai,,
+Navio B,2023-01-18,Xangai,Combustível,"5,855.50",Combustível em Xangai,,
+Navio C,2023-01-18,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-18,Los Angeles,Combustível,"19,784.27",Combustível em Los Angeles,,
+Navio D,2023-01-18,Singapura,Manuseio de Contêineres,"145,200.00",Manuseio de 1210 contêineres (Reefer),1210.0,Reefer
+Navio D,2023-01-18,Singapura,Taxas Portuárias,"1,633.20",Taxas portuárias em Singapura,,
+Navio D,2023-01-18,Hamburgo,Manuseio de Contêineres,"67,950.00",Manuseio de 1359 contêineres (20'),1359.0,20'
+Navio E,2023-01-18,Singapura,Taxas Portuárias,"1,519.54",Taxas portuárias em Singapura,,
+Navio E,2023-01-18,Los Angeles,Taxas Portuárias,"4,185.37",Taxas portuárias em Los Angeles,,
+Navio E,2023-01-18,Singapura,Combustível,"17,921.22",Combustível em Singapura,,
+Navio E,2023-01-18,Los Angeles,Taxas Portuárias,"4,464.69",Taxas portuárias em Los Angeles,,
+Navio E,2023-01-18,Xangai,Combustível,"12,523.93",Combustível em Xangai,,
+Navio A,2023-01-19,Hamburgo,Manutenção,"1,187.26",Manutenção e reparos,,
+Navio A,2023-01-19,Roterdã,Manuseio de Contêineres,"63,600.00",Manuseio de 1272 contêineres (20'),1272.0,20'
+Navio A,2023-01-19,Singapura,Taxas Portuárias,"3,118.51",Taxas portuárias em Singapura,,
+Navio A,2023-01-19,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-19,Singapura,Taxas Portuárias,"3,674.71",Taxas portuárias em Singapura,,
+Navio B,2023-01-19,Roterdã,Manuseio de Contêineres,"94,550.00",Manuseio de 1891 contêineres (20'),1891.0,20'
+Navio B,2023-01-19,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-19,Roterdã,Manuseio de Contêineres,"136,200.00",Manuseio de 1135 contêineres (Reefer),1135.0,Reefer
+Navio C,2023-01-19,Los Angeles,Manuseio de Contêineres,"234,000.00",Manuseio de 1950 contêineres (Reefer),1950.0,Reefer
+Navio D,2023-01-19,Los Angeles,Manuseio de Contêineres,"108,240.00",Manuseio de 902 contêineres (Reefer),902.0,Reefer
+Navio D,2023-01-19,Xangai,Taxas Portuárias,"3,269.84",Taxas portuárias em Xangai,,
+Navio D,2023-01-19,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-19,Xangai,Manuseio de Contêineres,"164,760.00",Manuseio de 1373 contêineres (Reefer),1373.0,Reefer
+Navio E,2023-01-19,Los Angeles,Combustível,"5,227.52",Combustível em Los Angeles,,
+Navio E,2023-01-19,Los Angeles,Taxas Portuárias,"3,867.81",Taxas portuárias em Los Angeles,,
+Navio E,2023-01-19,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-19,Xangai,Combustível,"8,868.08",Combustível em Xangai,,
+Navio A,2023-01-20,Singapura,Manutenção,"2,155.42",Manutenção e reparos,,
+Navio A,2023-01-20,Hamburgo,Combustível,"19,152.51",Combustível em Hamburgo,,
+Navio B,2023-01-20,Los Angeles,Combustível,"9,149.85",Combustível em Los Angeles,,
+Navio B,2023-01-20,Hamburgo,Combustível,"11,207.34",Combustível em Hamburgo,,
+Navio B,2023-01-20,Singapura,Taxas Portuárias,"3,867.92",Taxas portuárias em Singapura,,
+Navio C,2023-01-20,Los Angeles,Manuseio de Contêineres,"207,000.00",Manuseio de 1725 contêineres (Reefer),1725.0,Reefer
+Navio C,2023-01-20,Roterdã,Manutenção,"2,756.24",Manutenção e reparos,,
+Navio D,2023-01-20,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-20,Singapura,Taxas Portuárias,"4,508.39",Taxas portuárias em Singapura,,
+Navio D,2023-01-20,Xangai,Manuseio de Contêineres,"126,960.00",Manuseio de 1058 contêineres (Reefer),1058.0,Reefer
+Navio E,2023-01-20,Hamburgo,Manuseio de Contêineres,"54,240.00",Manuseio de 678 contêineres (40'),678.0,40'
+Navio E,2023-01-20,Los Angeles,Manutenção,"2,131.07",Manutenção e reparos,,
+Navio A,2023-01-21,Roterdã,Combustível,"14,657.10",Combustível em Roterdã,,
+Navio A,2023-01-21,Los Angeles,Taxas Portuárias,"1,550.94",Taxas portuárias em Los Angeles,,
+Navio A,2023-01-21,Xangai,Taxas Portuárias,"4,420.72",Taxas portuárias em Xangai,,
+Navio A,2023-01-21,Roterdã,Combustível,"5,038.27",Combustível em Roterdã,,
+Navio A,2023-01-21,Hamburgo,Manuseio de Contêineres,"183,840.00",Manuseio de 1532 contêineres (Reefer),1532.0,Reefer
+Navio B,2023-01-21,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-21,Singapura,Manuseio de Contêineres,"129,840.00",Manuseio de 1623 contêineres (40'),1623.0,40'
+Navio C,2023-01-21,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-21,Singapura,Manutenção,"1,595.00",Manutenção e reparos,,
+Navio E,2023-01-21,Xangai,Taxas Portuárias,"1,240.65",Taxas portuárias em Xangai,,
+Navio A,2023-01-22,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-22,Xangai,Manuseio de Contêineres,"74,240.00",Manuseio de 928 contêineres (40'),928.0,40'
+Navio B,2023-01-22,Los Angeles,Manutenção,"2,823.33",Manutenção e reparos,,
+Navio B,2023-01-22,Xangai,Manuseio de Contêineres,"216,840.00",Manuseio de 1807 contêineres (Reefer),1807.0,Reefer
+Navio B,2023-01-22,Los Angeles,Taxas Portuárias,"1,870.57",Taxas portuárias em Los Angeles,,
+Navio B,2023-01-22,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-22,Singapura,Taxas Portuárias,"3,897.08",Taxas portuárias em Singapura,,
+Navio C,2023-01-22,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-22,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-22,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-22,Roterdã,Manuseio de Contêineres,"32,250.00",Manuseio de 645 contêineres (20'),645.0,20'
+Navio A,2023-01-23,Hamburgo,Manuseio de Contêineres,"44,240.00",Manuseio de 553 contêineres (40'),553.0,40'
+Navio B,2023-01-23,Roterdã,Combustível,"10,143.97",Combustível em Roterdã,,
+Navio B,2023-01-23,Singapura,Combustível,"17,951.60",Combustível em Singapura,,
+Navio B,2023-01-23,Los Angeles,Combustível,"14,316.51",Combustível em Los Angeles,,
+Navio C,2023-01-23,Hamburgo,Manuseio de Contêineres,"220,440.00",Manuseio de 1837 contêineres (Reefer),1837.0,Reefer
+Navio C,2023-01-23,Los Angeles,Manutenção,"1,817.67",Manutenção e reparos,,
+Navio C,2023-01-23,Roterdã,Combustível,"15,110.78",Combustível em Roterdã,,
+Navio D,2023-01-23,Roterdã,Combustível,"13,545.45",Combustível em Roterdã,,
+Navio D,2023-01-23,Roterdã,Manutenção,"1,987.56",Manutenção e reparos,,
+Navio E,2023-01-23,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-23,Los Angeles,Combustível,"18,426.15",Combustível em Los Angeles,,
+Navio E,2023-01-23,Roterdã,Combustível,"10,877.32",Combustível em Roterdã,,
+Navio A,2023-01-24,Roterdã,Manutenção,"1,809.64",Manutenção e reparos,,
+Navio A,2023-01-24,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-24,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-24,Roterdã,Manuseio de Contêineres,"211,440.00",Manuseio de 1762 contêineres (Reefer),1762.0,Reefer
+Navio C,2023-01-24,Roterdã,Manutenção,"2,851.90",Manutenção e reparos,,
+Navio C,2023-01-24,Hamburgo,Manutenção,"2,064.87",Manutenção e reparos,,
+Navio D,2023-01-24,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-24,Xangai,Combustível,"11,841.52",Combustível em Xangai,,
+Navio D,2023-01-24,Los Angeles,Combustível,"17,966.79",Combustível em Los Angeles,,
+Navio D,2023-01-24,Xangai,Manutenção,"1,218.75",Manutenção e reparos,,
+Navio E,2023-01-24,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-25,Singapura,Combustível,"17,416.22",Combustível em Singapura,,
+Navio A,2023-01-25,Hamburgo,Taxas Portuárias,"2,043.59",Taxas portuárias em Hamburgo,,
+Navio A,2023-01-25,Singapura,Manuseio de Contêineres,"64,080.00",Manuseio de 801 contêineres (40'),801.0,40'
+Navio A,2023-01-25,Hamburgo,Manuseio de Contêineres,"72,720.00",Manuseio de 606 contêineres (Reefer),606.0,Reefer
+Navio A,2023-01-25,Xangai,Manuseio de Contêineres,"66,050.00",Manuseio de 1321 contêineres (20'),1321.0,20'
+Navio B,2023-01-25,Xangai,Taxas Portuárias,"4,203.74",Taxas portuárias em Xangai,,
+Navio B,2023-01-25,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-25,Roterdã,Manutenção,"1,636.48",Manutenção e reparos,,
+Navio C,2023-01-25,Los Angeles,Taxas Portuárias,"2,992.55",Taxas portuárias em Los Angeles,,
+Navio C,2023-01-25,Singapura,Taxas Portuárias,"3,065.50",Taxas portuárias em Singapura,,
+Navio C,2023-01-25,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-25,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-25,Los Angeles,Manutenção,"2,097.72",Manutenção e reparos,,
+Navio D,2023-01-25,Hamburgo,Manutenção,"2,494.23",Manutenção e reparos,,
+Navio D,2023-01-25,Roterdã,Combustível,"11,715.87",Combustível em Roterdã,,
+Navio E,2023-01-25,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-25,Singapura,Taxas Portuárias,"2,383.20",Taxas portuárias em Singapura,,
+Navio A,2023-01-26,Xangai,Taxas Portuárias,"4,771.13",Taxas portuárias em Xangai,,
+Navio A,2023-01-26,Roterdã,Combustível,"6,018.95",Combustível em Roterdã,,
+Navio A,2023-01-26,Singapura,Combustível,"15,051.26",Combustível em Singapura,,
+Navio A,2023-01-26,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-26,Roterdã,Combustível,"18,405.35",Combustível em Roterdã,,
+Navio C,2023-01-26,Los Angeles,Manuseio de Contêineres,"69,760.00",Manuseio de 872 contêineres (40'),872.0,40'
+Navio C,2023-01-26,Roterdã,Manuseio de Contêineres,"93,850.00",Manuseio de 1877 contêineres (20'),1877.0,20'
+Navio D,2023-01-26,Singapura,Combustível,"11,873.83",Combustível em Singapura,,
+Navio D,2023-01-26,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-26,Singapura,Taxas Portuárias,"1,288.55",Taxas portuárias em Singapura,,
+Navio E,2023-01-26,Hamburgo,Manutenção,"1,705.52",Manutenção e reparos,,
+Navio A,2023-01-27,Hamburgo,Manuseio de Contêineres,"107,120.00",Manuseio de 1339 contêineres (40'),1339.0,40'
+Navio A,2023-01-27,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-27,Los Angeles,Manutenção,"1,622.94",Manutenção e reparos,,
+Navio B,2023-01-27,Xangai,Taxas Portuárias,"4,423.19",Taxas portuárias em Xangai,,
+Navio B,2023-01-27,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-27,Los Angeles,Taxas Portuárias,"2,290.33",Taxas portuárias em Los Angeles,,
+Navio C,2023-01-27,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-27,Roterdã,Manuseio de Contêineres,"206,760.00",Manuseio de 1723 contêineres (Reefer),1723.0,Reefer
+Navio C,2023-01-27,Los Angeles,Manuseio de Contêineres,"42,240.00",Manuseio de 528 contêineres (40'),528.0,40'
+Navio D,2023-01-27,Singapura,Manutenção,"2,521.91",Manutenção e reparos,,
+Navio D,2023-01-27,Hamburgo,Combustível,"11,443.86",Combustível em Hamburgo,,
+Navio D,2023-01-27,Los Angeles,Combustível,"5,736.14",Combustível em Los Angeles,,
+Navio D,2023-01-27,Los Angeles,Taxas Portuárias,"1,654.36",Taxas portuárias em Los Angeles,,
+Navio D,2023-01-27,Singapura,Manutenção,518.85,Manutenção e reparos,,
+Navio E,2023-01-27,Hamburgo,Manutenção,"2,892.03",Manutenção e reparos,,
+Navio E,2023-01-27,Roterdã,Manuseio de Contêineres,"128,960.00",Manuseio de 1612 contêineres (40'),1612.0,40'
+Navio E,2023-01-27,Hamburgo,Taxas Portuárias,"4,768.33",Taxas portuárias em Hamburgo,,
+Navio E,2023-01-27,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-27,Hamburgo,Manutenção,"1,967.59",Manutenção e reparos,,
+Navio A,2023-01-28,Los Angeles,Combustível,"15,857.07",Combustível em Los Angeles,,
+Navio A,2023-01-28,Xangai,Manuseio de Contêineres,"109,040.00",Manuseio de 1363 contêineres (40'),1363.0,40'
+Navio A,2023-01-28,Los Angeles,Manutenção,"2,956.98",Manutenção e reparos,,
+Navio A,2023-01-28,Los Angeles,Manuseio de Contêineres,"26,500.00",Manuseio de 530 contêineres (20'),530.0,20'
+Navio B,2023-01-28,Hamburgo,Manuseio de Contêineres,"91,360.00",Manuseio de 1142 contêineres (40'),1142.0,40'
+Navio C,2023-01-28,Los Angeles,Manuseio de Contêineres,"62,080.00",Manuseio de 776 contêineres (40'),776.0,40'
+Navio C,2023-01-28,Roterdã,Seguros,"1,500.00",Seguro diário,,
+Navio C,2023-01-28,Xangai,Taxas Portuárias,"3,918.69",Taxas portuárias em Xangai,,
+Navio C,2023-01-28,Singapura,Combustível,"15,032.45",Combustível em Singapura,,
+Navio C,2023-01-28,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-28,Los Angeles,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-28,Roterdã,Manutenção,"1,232.10",Manutenção e reparos,,
+Navio D,2023-01-28,Roterdã,Manutenção,"2,826.00",Manutenção e reparos,,
+Navio E,2023-01-28,Los Angeles,Manutenção,689.95,Manutenção e reparos,,
+Navio E,2023-01-28,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio A,2023-01-29,Xangai,Taxas Portuárias,"1,371.69",Taxas portuárias em Xangai,,
+Navio B,2023-01-29,Roterdã,Manuseio de Contêineres,"66,480.00",Manuseio de 831 contêineres (40'),831.0,40'
+Navio C,2023-01-29,Xangai,Manutenção,"1,853.91",Manutenção e reparos,,
+Navio C,2023-01-29,Los Angeles,Taxas Portuárias,"2,279.48",Taxas portuárias em Los Angeles,,
+Navio C,2023-01-29,Los Angeles,Combustível,"11,008.14",Combustível em Los Angeles,,
+Navio C,2023-01-29,Xangai,Manuseio de Contêineres,"56,700.00",Manuseio de 1134 contêineres (20'),1134.0,20'
+Navio D,2023-01-29,Xangai,Taxas Portuárias,"4,483.51",Taxas portuárias em Xangai,,
+Navio D,2023-01-29,Singapura,Manuseio de Contêineres,"145,040.00",Manuseio de 1813 contêineres (40'),1813.0,40'
+Navio E,2023-01-29,Roterdã,Taxas Portuárias,"2,593.50",Taxas portuárias em Roterdã,,
+Navio E,2023-01-29,Hamburgo,Manuseio de Contêineres,"96,050.00",Manuseio de 1921 contêineres (20'),1921.0,20'
+Navio E,2023-01-29,Hamburgo,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-29,Los Angeles,Manuseio de Contêineres,"216,600.00",Manuseio de 1805 contêineres (Reefer),1805.0,Reefer
+Navio E,2023-01-29,Roterdã,Manuseio de Contêineres,"67,920.00",Manuseio de 849 contêineres (40'),849.0,40'
+Navio A,2023-01-30,Xangai,Taxas Portuárias,"1,534.18",Taxas portuárias em Xangai,,
+Navio A,2023-01-30,Singapura,Manutenção,"1,302.30",Manutenção e reparos,,
+Navio A,2023-01-30,Hamburgo,Taxas Portuárias,"4,947.84",Taxas portuárias em Hamburgo,,
+Navio A,2023-01-30,Los Angeles,Combustível,"17,702.03",Combustível em Los Angeles,,
+Navio A,2023-01-30,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio B,2023-01-30,Roterdã,Manutenção,"2,038.79",Manutenção e reparos,,
+Navio B,2023-01-30,Roterdã,Combustível,"10,470.49",Combustível em Roterdã,,
+Navio B,2023-01-30,Roterdã,Combustível,"7,011.49",Combustível em Roterdã,,
+Navio C,2023-01-30,Roterdã,Combustível,"15,901.84",Combustível em Roterdã,,
+Navio C,2023-01-30,Hamburgo,Manutenção,"2,162.00",Manutenção e reparos,,
+Navio D,2023-01-30,Los Angeles,Taxas Portuárias,"1,419.65",Taxas portuárias em Los Angeles,,
+Navio D,2023-01-30,Xangai,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-30,Singapura,Combustível,"15,942.59",Combustível em Singapura,,
+Navio D,2023-01-30,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio D,2023-01-30,Singapura,Seguros,"1,500.00",Seguro diário,,
+Navio E,2023-01-30,Singapura,Taxas Portuárias,"1,804.80",Taxas portuárias em Singapura,,
+Navio E,2023-01-30,Los Angeles,Manutenção,"2,484.36",Manutenção e reparos,,
