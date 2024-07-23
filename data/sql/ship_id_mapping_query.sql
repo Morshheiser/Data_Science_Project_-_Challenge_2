@@ -1,5 +1,5 @@
 CREATE TABLE Ship_Id_Mapping (
-    Name_Ship VARCHAR(50),
+    Name_Ship VARCHAR(50) UNIQUE,
     ID_Ship INTEGER PRIMARY KEY
 
 );

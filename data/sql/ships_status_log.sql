@@ -1,6 +1,6 @@
 CREATE TABLE Cost_Ship (
    ID_Log INTEGER PRIMARY KEY,
-    Name_Ship VARCHAR(100),
+    Name_Ship VARCHAR(100) UNIQUE,
     _Date_ DATE,
     Port VARCHAR(100),
     Type_cost VARCHAR(100),
@@ -14,7 +14,10 @@ CREATE TABLE Cost_Ship (
     Type_of_Containers VARCHAR(100),
     Number_of_Vehicles INTEGER,
     Type_of_Vehicles VARCHAR(100),
-    ID_Navio INTEGER,
+    ID_Ship INTEGER,
+    ID_Port INTEGER,
+    FOREIGN KEY (ID_Port) REFERENCES Port_Name(ID_Port),
+    FOREIGN KEY (ID_Ship) REFERENCES Ship_Id_Mapping(ID_Ship)
 );
 
 
