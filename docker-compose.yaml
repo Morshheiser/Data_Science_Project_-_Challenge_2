@@ -1,7 +1,7 @@
 services:
   postgres:
     image: postgres:14.4
-    container_name: postgres-compose
+    container_name: postgres-compose-zz
     user: root
     ports:
       - "5432:5432"
