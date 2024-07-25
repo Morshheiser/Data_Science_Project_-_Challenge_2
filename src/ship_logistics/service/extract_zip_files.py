@@ -27,10 +27,10 @@ def extract_zip_files(source_dir, dest_dir):
             except Exception as e:
                 print(f"Erro ao extrair {item_path}: {e}")
 
-# Diretório onde procurar arquivos ZIP
-source_directory = r'C:\Users\morsh\Desktop\Casa DIgital\Data_Science_Project_-_Challenge_2\zip_files'
-# Diretório onde extrair os arquivos
-destination_directory = r'C:\Users\morsh\Desktop\Casa DIgital\Data_Science_Project_-_Challenge_2\all_files'
+# # Diretório onde procurar arquivos ZIP
+# source_directory = r'C:\Users\morsh\Desktop\Casa DIgital\Data_Science_Project_-_Challenge_2\data\zip'
+# # Diretório onde extrair os arquivos
+# destination_directory = r'C:\Users\morsh\Desktop\Casa DIgital\Data_Science_Project_-_Challenge_2\data\all_files'
 
-# Executa a função de extração
-extract_zip_files(source_directory, destination_directory)
+# # Executa a função de extração
+# extract_zip_files(source_directory, destination_directory)
