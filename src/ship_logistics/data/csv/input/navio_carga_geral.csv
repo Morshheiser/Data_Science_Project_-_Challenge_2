@@ -1,4 +1,4 @@
-Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Tipo de Carga,Volume
+SHIP_NAME,DATE_,Porto,TYPE_COST,VALUE,Descrição,LOAD_NAME,VOLUME
 Carga Geral A,2023-01-01,Los Angeles,Seguros,1900.0,Seguro diário,,
 Carga Geral B,2023-01-01,Los Angeles,Taxas Portuárias,6372.64,Taxas portuárias em Los Angeles,,
 Carga Geral B,2023-01-01,Los Angeles,Combustível,11219.43,Combustível em Los Angeles,,

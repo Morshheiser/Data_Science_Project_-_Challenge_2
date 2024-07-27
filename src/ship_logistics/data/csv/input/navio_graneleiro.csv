@@ -1,4 +1,4 @@
-Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Tipo de Carga,Tonelagem
+SHIP_NAME,DATE_,Porto,TYPE_COST,VALUE,Descrição,LOAD_NAME,WEIGHT_TONNAGE
 Graneleiro A,2023-01-01,Xangai,Taxas Portuárias,4741.06,Taxas portuárias em Xangai,,
 Graneleiro B,2023-01-01,Xangai,Carga e Descarga,631908.0,Carga e descarga de 52659 toneladas de Carvão,Carvão,52659.0
 Graneleiro B,2023-01-01,Hamburgo,Manutenção,1420.61,Manutenção e reparos,,

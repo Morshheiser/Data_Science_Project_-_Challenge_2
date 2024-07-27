@@ -1,4 +1,4 @@
-Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Tipo de Carga,Temperatura,Volume (m³)
+SHIP_NAME,DATE_,Porto,TYPE_COST,VALUE,Descrição,LOAD_NAME,TEMP,VOLUME
 Frigorífico A,2023-01-01,Hamburgo,Taxas Portuárias,6769.82,Taxas portuárias em Hamburgo,,,
 Frigorífico B,2023-01-01,Singapura,Manutenção,3851.05,Manutenção e reparos,,,
 Frigorífico B,2023-01-01,Singapura,Carregamento/Descarga,6817.0,Carregamento/descarga de 6817 m³ de Laticínios a -12°C,Laticínios,-12.0,6817.0

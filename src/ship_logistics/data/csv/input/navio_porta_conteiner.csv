@@ -1,4 +1,4 @@
-Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Número de Contêineres,Tipo de Contêineres
+SHIP_NAME,DATE_,Porto,TYPE_COST,VALUE,Descrição,NUMBER_OF_CONTAINERS,LOAD_NAME
 Navio A,2023-01-01,Singapura,Seguros,1500.0,Seguro diário,,
 Navio A,2023-01-01,Los Angeles,Taxas Portuárias,3968.74,Taxas portuárias em Los Angeles,,
 Navio A,2023-01-01,Hamburgo,Seguros,1500.0,Seguro diário,,

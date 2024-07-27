@@ -1,4 +1,4 @@
-Nome do Navio,Data,Porto,Tipo de Custo,Valor (USD),Descrição,Número de Veículos,Tipo de Veículos
+SHIP_NAME,DATE_,Porto,TYPE_COST,VALUE,Descrição,NUMBER_OF_VEHICLES,LOAD_NAME
 Ro-Ro A,2023-01-01,Singapura,Combustível,21716.84,Combustível em Singapura,,
 Ro-Ro B,2023-01-01,Xangai,Seguros,1800.0,Seguro diário,,
 Ro-Ro B,2023-01-01,Singapura,Embarque e Desembarque,132400.0,Embarque e desembarque de 662 Caminhões,662.0,Caminhões
