@@ -1,8 +1,0 @@
-
-CREATE INDEX idx_ship_type ON SHIP(ID_TYPE);
-CREATE INDEX idx_costs_ship ON COSTS(ID_SHIP);
-CREATE INDEX idx_costs_port ON COSTS(ID_PORT);
-CREATE INDEX idx_costs_type ON COSTS(ID_TYPE_COST);
-CREATE INDEX idx_routes_origin ON ROUTES(ID_PORT_ORIGIN);
-CREATE INDEX idx_routes_destination ON ROUTES(ID_PORT_DESTINATION);
-CREATE INDEX idx_port_costs_port ON PORT_COSTS(ID_PORT);
